@@ -1,9 +1,11 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { HomeComponent } from 'src/home/home.component';
+import { VideoComponent } from 'src/video/video.component';
 
 const routes: Routes = [
-  {path: 'home', component: HomeComponent}
+  {path: 'video', component: VideoComponent},
+  { path: '', redirectTo: 'video', pathMatch: 'full' },
+
 ];
 
 @NgModule({

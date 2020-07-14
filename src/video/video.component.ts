@@ -2,15 +2,19 @@ import { Component, OnInit } from '@angular/core';
 import { VideosService } from 'src/app/shared/services/videos.service';
 
 @Component({
-  selector: 'app-home',
-  templateUrl: './home.component.html',
-  styleUrls: ['./home.component.scss']
+  selector: 'app-video',
+  templateUrl: './video.component.html',
+  styleUrls: ['./video.component.scss'],
+  styles: [`
+  :host {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+  `]
 })
-export class HomeComponent implements OnInit {
+export class VideoComponent implements OnInit {
   welcomeMessage = "Video List";  
-  // videoData = [
-  //     { title: 'Hello Video loooosers' },
-  // ];
   videos = null;
 
   constructor(private videosService: VideosService) { }

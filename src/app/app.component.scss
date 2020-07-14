@@ -1,0 +1,30 @@
+
+ img {
+	max-width: 100%;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.container {
+	max-width: 100%;
+	padding: 20px;
+    margin: 0 auto;
+}
+
+.main-header .container {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.nav-title {
+    color: blue;
+    font-weight: 800;
+    font-size: 25px;
+    background-color: #FAC7FE;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
