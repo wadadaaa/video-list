@@ -1,0 +1,1154 @@
+{
+    "data": {
+      "videos_log_by_ids": [
+        {
+          "id": "dJba7w1C9Vk",
+          "platform": "ok",
+          "published": "2020-07-11T08:30:00+00:00",
+          "video_id": "ok.dJba7w1C9Vk",
+          "operations_data": {
+            "detection_date": "2020-07-12T10:29:33+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "fortnite 2"
+            ]
+          },
+          "connected_assets": [
+            {
+              "asset": {
+                "asset_id": "91439fd6-d687-4c05-8",
+                "status": "Active",
+                "creation_date": "2019-04-14T00:00:00+00:00",
+                "owner": "QA Staging",
+                "customer_id": "f7fee4d0-5b76-11e9-b755-0242ac110002",
+                "name": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                "reference_list": [
+                  {
+                    "url_id": "974502823170",
+                    "reference_id": "ok.974502823170",
+                    "platform": "ok",
+                    "search_start_date_offset": 1,
+                    "execution_policy": "One Time",
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Deleted",
+                    "creation_date": "2019-04-11T07:58:36.181763+00:00"
+                  },
+                  {
+                    "url_id": "1042519295260",
+                    "reference_id": "ok.1042519295260",
+                    "platform": "ok",
+                    "search_start_date_offset": 1,
+                    "execution_policy": "One Time",
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Deleted",
+                    "creation_date": "2019-04-17T10:04:11.263417+00:00"
+                  },
+                  {
+                    "url_id": "7hHECMVOq7g",
+                    "reference_id": "yt.7hHECMVOq7g",
+                    "platform": "yt",
+                    "search_start_date_offset": 1,
+                    "execution_policy": "Weekly",
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Active",
+                    "creation_date": "2019-08-11T19:13:49.167828+00:00"
+                  }
+                ]
+              },
+              "connected_references": [
+                {
+                  "status": "infringing_sent_for_review",
+                  "source": "Human",
+                  "reference": {
+                    "url_id": "974502823170",
+                    "reference_id": "ok.974502823170",
+                    "platform": "ok",
+                    "search_start_date_offset": 1,
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Deleted",
+                    "creation_date": "2019-04-11T07:58:36.181763+00:00"
+                  },
+                  "matches": [
+                    
+                  ]
+                },
+                {
+                  "status": "infringing_sent_for_review",
+                  "source": "Human",
+                  "reference": {
+                    "url_id": "1042519295260",
+                    "reference_id": "ok.1042519295260",
+                    "platform": "ok",
+                    "search_start_date_offset": 1,
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Deleted",
+                    "creation_date": "2019-04-17T10:04:11.263417+00:00"
+                  },
+                  "matches": [
+                    
+                  ]
+                },
+                {
+                  "status": "infringing_sent_for_review",
+                  "source": "Human",
+                  "reference": {
+                    "url_id": "7hHECMVOq7g",
+                    "reference_id": "yt.7hHECMVOq7g",
+                    "platform": "yt",
+                    "search_start_date_offset": 1,
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Active",
+                    "creation_date": "2019-08-11T19:13:49.167828+00:00"
+                  },
+                  "matches": [
+                    
+                  ]
+                }
+              ],
+              "asset_owner": "QA Staging"
+            }
+          ]
+        },
+        {
+          "id": "P38zId5tx9w",
+          "platform": "ok",
+          "published": "2020-07-07T00:00:00+00:00",
+          "video_id": "ok.P38zId5tx9w",
+          "operations_data": {
+            "detection_date": "2020-07-12T10:29:14+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "fortnite"
+            ]
+          },
+          "connected_assets": [
+            {
+              "asset": {
+                "asset_id": "91439fd6-d687-4c05-8",
+                "status": "Active",
+                "creation_date": "2019-04-14T00:00:00+00:00",
+                "owner": "QA Staging",
+                "customer_id": "f7fee4d0-5b76-11e9-b755-0242ac110002",
+                "name": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                "reference_list": [
+                  {
+                    "url_id": "974502823170",
+                    "reference_id": "ok.974502823170",
+                    "platform": "ok",
+                    "search_start_date_offset": 1,
+                    "execution_policy": "One Time",
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Deleted",
+                    "creation_date": "2019-04-11T07:58:36.181763+00:00"
+                  },
+                  {
+                    "url_id": "1042519295260",
+                    "reference_id": "ok.1042519295260",
+                    "platform": "ok",
+                    "search_start_date_offset": 1,
+                    "execution_policy": "One Time",
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Deleted",
+                    "creation_date": "2019-04-17T10:04:11.263417+00:00"
+                  },
+                  {
+                    "url_id": "7hHECMVOq7g",
+                    "reference_id": "yt.7hHECMVOq7g",
+                    "platform": "yt",
+                    "search_start_date_offset": 1,
+                    "execution_policy": "Weekly",
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Active",
+                    "creation_date": "2019-08-11T19:13:49.167828+00:00"
+                  }
+                ]
+              },
+              "connected_references": [
+                {
+                  "status": "infringing_sent_for_review",
+                  "source": "Human",
+                  "reference": {
+                    "url_id": "974502823170",
+                    "reference_id": "ok.974502823170",
+                    "platform": "ok",
+                    "search_start_date_offset": 1,
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Deleted",
+                    "creation_date": "2019-04-11T07:58:36.181763+00:00"
+                  },
+                  "matches": [
+                    
+                  ]
+                },
+                {
+                  "status": "infringing_sent_for_review",
+                  "source": "Human",
+                  "reference": {
+                    "url_id": "1042519295260",
+                    "reference_id": "ok.1042519295260",
+                    "platform": "ok",
+                    "search_start_date_offset": 1,
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Deleted",
+                    "creation_date": "2019-04-17T10:04:11.263417+00:00"
+                  },
+                  "matches": [
+                    
+                  ]
+                },
+                {
+                  "status": "infringing_sent_for_review",
+                  "source": "Human",
+                  "reference": {
+                    "url_id": "7hHECMVOq7g",
+                    "reference_id": "yt.7hHECMVOq7g",
+                    "platform": "yt",
+                    "search_start_date_offset": 1,
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Active",
+                    "creation_date": "2019-08-11T19:13:49.167828+00:00"
+                  },
+                  "matches": [
+                    
+                  ]
+                }
+              ],
+              "asset_owner": "QA Staging"
+            }
+          ]
+        },
+        {
+          "id": "N43nk2zNE04",
+          "platform": "ok",
+          "published": "2020-07-10T00:00:00+00:00",
+          "video_id": "ok.N43nk2zNE04",
+          "operations_data": {
+            "detection_date": "2020-07-12T10:28:47+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#cristianoronaldo"
+            ]
+          },
+          "connected_assets": [
+            {
+              "asset": {
+                "asset_id": "91439fd6-d687-4c05-8",
+                "status": "Active",
+                "creation_date": "2019-04-14T00:00:00+00:00",
+                "owner": "QA Staging",
+                "customer_id": "f7fee4d0-5b76-11e9-b755-0242ac110002",
+                "name": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                "reference_list": [
+                  {
+                    "url_id": "974502823170",
+                    "reference_id": "ok.974502823170",
+                    "platform": "ok",
+                    "search_start_date_offset": 1,
+                    "execution_policy": "One Time",
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Deleted",
+                    "creation_date": "2019-04-11T07:58:36.181763+00:00"
+                  },
+                  {
+                    "url_id": "1042519295260",
+                    "reference_id": "ok.1042519295260",
+                    "platform": "ok",
+                    "search_start_date_offset": 1,
+                    "execution_policy": "One Time",
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Deleted",
+                    "creation_date": "2019-04-17T10:04:11.263417+00:00"
+                  },
+                  {
+                    "url_id": "7hHECMVOq7g",
+                    "reference_id": "yt.7hHECMVOq7g",
+                    "platform": "yt",
+                    "search_start_date_offset": 1,
+                    "execution_policy": "Weekly",
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Active",
+                    "creation_date": "2019-08-11T19:13:49.167828+00:00"
+                  }
+                ]
+              },
+              "connected_references": [
+                {
+                  "status": "infringing_sent_for_review",
+                  "source": "Human",
+                  "reference": {
+                    "url_id": "974502823170",
+                    "reference_id": "ok.974502823170",
+                    "platform": "ok",
+                    "search_start_date_offset": 1,
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Deleted",
+                    "creation_date": "2019-04-11T07:58:36.181763+00:00"
+                  },
+                  "matches": [
+                    
+                  ]
+                },
+                {
+                  "status": "infringing_sent_for_review",
+                  "source": "Human",
+                  "reference": {
+                    "url_id": "1042519295260",
+                    "reference_id": "ok.1042519295260",
+                    "platform": "ok",
+                    "search_start_date_offset": 1,
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Deleted",
+                    "creation_date": "2019-04-17T10:04:11.263417+00:00"
+                  },
+                  "matches": [
+                    
+                  ]
+                },
+                {
+                  "status": "infringing_sent_for_review",
+                  "source": "Human",
+                  "reference": {
+                    "url_id": "7hHECMVOq7g",
+                    "reference_id": "yt.7hHECMVOq7g",
+                    "platform": "yt",
+                    "search_start_date_offset": 1,
+                    "text_queries": [
+                      
+                    ],
+                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
+                    "views": null,
+                    "status": "Active",
+                    "creation_date": "2019-08-11T19:13:49.167828+00:00"
+                  },
+                  "matches": [
+                    
+                  ]
+                }
+              ],
+              "asset_owner": "QA Staging"
+            }
+          ]
+        },
+        {
+          "id": "2364158910442",
+          "platform": "ok",
+          "published": "2020-07-01T00:00:00+00:00",
+          "video_id": "ok.2364158910442",
+          "operations_data": {
+            "detection_date": "2020-07-12T10:09:17+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "OE2eRwuixfI",
+          "platform": "ok",
+          "published": "2020-05-23T00:00:00+00:00",
+          "video_id": "ok.OE2eRwuixfI",
+          "operations_data": {
+            "detection_date": "2020-07-12T10:10:02+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "fortnite live"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "mkpKJaTm84A",
+          "platform": "ok",
+          "published": "2020-05-22T00:00:00+00:00",
+          "video_id": "ok.mkpKJaTm84A",
+          "operations_data": {
+            "detection_date": "2020-07-12T10:09:59+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "fortnite 2"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "9FCRaSwU3W8",
+          "platform": "ok",
+          "published": "2020-06-17T00:00:00+00:00",
+          "video_id": "ok.9FCRaSwU3W8",
+          "operations_data": {
+            "detection_date": "2020-07-12T10:09:58+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "fortnite 2"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "qoYjkKE1jKw",
+          "platform": "ok",
+          "published": "2020-06-17T00:00:00+00:00",
+          "video_id": "ok.qoYjkKE1jKw",
+          "operations_data": {
+            "detection_date": "2020-07-12T10:09:58+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "fortnite 2"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "5ALz-NWDe9A",
+          "platform": "ok",
+          "published": "2020-06-18T00:00:00+00:00",
+          "video_id": "ok.5ALz-NWDe9A",
+          "operations_data": {
+            "detection_date": "2020-07-12T10:09:58+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "fortnite 2"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "6NeOFX4MLfg",
+          "platform": "ok",
+          "published": "2020-06-21T00:00:00+00:00",
+          "video_id": "ok.6NeOFX4MLfg",
+          "operations_data": {
+            "detection_date": "2020-07-12T10:09:36+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "fortnite"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "UwpAfSwffLs",
+          "platform": "ok",
+          "published": "2020-05-24T00:00:00+00:00",
+          "video_id": "ok.UwpAfSwffLs",
+          "operations_data": {
+            "detection_date": "2020-07-12T10:09:35+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "fortnite"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "niccolo.alcini.6842060678023466246",
+          "platform": "tt",
+          "published": "2020-06-24T23:29:54+00:00",
+          "video_id": "tt.niccolo.alcini.6842060678023466246",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:26+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "gethecamera.6836342488534355205",
+          "platform": "tt",
+          "published": "2020-06-09T13:40:23+00:00",
+          "video_id": "tt.gethecamera.6836342488534355205",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:26+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "haxens.6834820183694068998",
+          "platform": "tt",
+          "published": "2020-06-05T11:13:04+00:00",
+          "video_id": "tt.haxens.6834820183694068998",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:26+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "remi_ragnar.6837200669242330374",
+          "platform": "tt",
+          "published": "2020-06-11T21:10:35+00:00",
+          "video_id": "tt.remi_ragnar.6837200669242330374",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:27+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "juliec0rn.6842247820557159685",
+          "platform": "tt",
+          "published": "2020-06-25T11:36:07+00:00",
+          "video_id": "tt.juliec0rn.6842247820557159685",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:27+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "jana.craemer.6839211157778140422",
+          "platform": "tt",
+          "published": "2020-06-17T07:12:21+00:00",
+          "video_id": "tt.jana.craemer.6839211157778140422",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:27+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "luviito01.6830070147936521477",
+          "platform": "tt",
+          "published": "2020-05-23T16:00:31+00:00",
+          "video_id": "tt.luviito01.6830070147936521477",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:27+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "anna_strigl.6831926996579192070",
+          "platform": "tt",
+          "published": "2020-05-28T16:06:01+00:00",
+          "video_id": "tt.anna_strigl.6831926996579192070",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:27+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "herranwalt.6848134011534036230",
+          "platform": "tt",
+          "published": "2020-07-11T08:17:32+00:00",
+          "video_id": "tt.herranwalt.6848134011534036230",
+          "operations_data": {
+            "detection_date": "2020-07-12T09:59:48+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "axelwino.6830086162011393285",
+          "platform": "tt",
+          "published": "2020-05-23T17:02:39+00:00",
+          "video_id": "tt.axelwino.6830086162011393285",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:27+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "lucas.officiel06.6833333276598373638",
+          "platform": "tt",
+          "published": "2020-06-01T11:03:06+00:00",
+          "video_id": "tt.lucas.officiel06.6833333276598373638",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:27+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "smilyfritman.6841124582330584325",
+          "platform": "tt",
+          "published": "2020-06-22T10:57:24+00:00",
+          "video_id": "tt.smilyfritman.6841124582330584325",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:27+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "narcisapop3.6841210386809933062",
+          "platform": "tt",
+          "published": "2020-06-22T16:30:20+00:00",
+          "video_id": "tt.narcisapop3.6841210386809933062",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:27+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "haxens.6832976993483640069",
+          "platform": "tt",
+          "published": "2020-05-31T12:00:35+00:00",
+          "video_id": "tt.haxens.6832976993483640069",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:27+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "_camille.loic_.6840453966170508550",
+          "platform": "tt",
+          "published": "2020-06-20T15:35:02+00:00",
+          "video_id": "tt._camille.loic_.6840453966170508550",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:28+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "houdini.972.6833051132852571398",
+          "platform": "tt",
+          "published": "2020-05-31T16:48:16+00:00",
+          "video_id": "tt.houdini.972.6833051132852571398",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:27+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "twoflametony.6848052279698885893",
+          "platform": "tt",
+          "published": "2020-07-11T03:00:23+00:00",
+          "video_id": "tt.twoflametony.6848052279698885893",
+          "operations_data": {
+            "detection_date": "2020-07-12T09:59:48+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "jordanyumpe.6832404603758300422",
+          "platform": "tt",
+          "published": "2020-05-29T22:59:23+00:00",
+          "video_id": "tt.jordanyumpe.6832404603758300422",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:28+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "meryembenoua.6833066450161241350",
+          "platform": "tt",
+          "published": "2020-05-31T17:47:40+00:00",
+          "video_id": "tt.meryembenoua.6833066450161241350",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:28+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "vipul_fojikanudo4509gj13.6841210179418164482",
+          "platform": "tt",
+          "published": "2020-06-22T16:29:33+00:00",
+          "video_id": "tt.vipul_fojikanudo4509gj13.6841210179418164482",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:28+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "coach_pedro.6846922297383718149",
+          "platform": "tt",
+          "published": "2020-07-08T01:55:31+00:00",
+          "video_id": "tt.coach_pedro.6846922297383718149",
+          "operations_data": {
+            "detection_date": "2020-07-12T09:59:48+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "welcome518.6837059978575072518",
+          "platform": "tt",
+          "published": "2020-06-11T12:04:39+00:00",
+          "video_id": "tt.welcome518.6837059978575072518",
+          "operations_data": {
+            "detection_date": "2020-07-12T09:59:48+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "besttrendvideos.6829358322781654277",
+          "platform": "tt",
+          "published": "2020-05-21T17:58:15+00:00",
+          "video_id": "tt.besttrendvideos.6829358322781654277",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:28+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "alexandretete.6834915055490911494",
+          "platform": "tt",
+          "published": "2020-06-05T17:21:13+00:00",
+          "video_id": "tt.alexandretete.6834915055490911494",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:28+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "huskymuscles.6829811245969853701",
+          "platform": "tt",
+          "published": "2020-05-22T23:15:51+00:00",
+          "video_id": "tt.huskymuscles.6829811245969853701",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:28+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "imbattibile.off.6843500033392823557",
+          "platform": "tt",
+          "published": "2020-06-28T20:35:20+00:00",
+          "video_id": "tt.imbattibile.off.6843500033392823557",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:28+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "ayoubpotter.6839737625297833222",
+          "platform": "tt",
+          "published": "2020-06-18T17:15:16+00:00",
+          "video_id": "tt.ayoubpotter.6839737625297833222",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:28+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "gru_ninja.6835324794880150790",
+          "platform": "tt",
+          "published": "2020-06-06T19:51:12+00:00",
+          "video_id": "tt.gru_ninja.6835324794880150790",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:28+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "saucy_curlifriess.6832510789623024901",
+          "platform": "tt",
+          "published": "2020-05-30T05:51:27+00:00",
+          "video_id": "tt.saucy_curlifriess.6832510789623024901",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:25+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "rubykimmy1.6836554438128274694",
+          "platform": "tt",
+          "published": "2020-06-10T03:22:54+00:00",
+          "video_id": "tt.rubykimmy1.6836554438128274694",
+          "operations_data": {
+            "detection_date": "2020-07-12T09:59:47+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "huskymuscles.6837133737503821061",
+          "platform": "tt",
+          "published": "2020-06-11T16:50:51+00:00",
+          "video_id": "tt.huskymuscles.6837133737503821061",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:25+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "artsaogiv.6847820818068622597",
+          "platform": "tt",
+          "published": "2020-07-10T12:02:14+00:00",
+          "video_id": "tt.artsaogiv.6847820818068622597",
+          "operations_data": {
+            "detection_date": "2020-07-12T09:59:47+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "huskymuscles.6828682260259015941",
+          "platform": "tt",
+          "published": "2020-05-19T22:14:48+00:00",
+          "video_id": "tt.huskymuscles.6828682260259015941",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:25+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "pepiteduweb.6839253292921425157",
+          "platform": "tt",
+          "published": "2020-06-17T09:55:50+00:00",
+          "video_id": "tt.pepiteduweb.6839253292921425157",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:26+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "anna_strigl.6847881576731217157",
+          "platform": "tt",
+          "published": "2020-07-10T15:57:57+00:00",
+          "video_id": "tt.anna_strigl.6847881576731217157",
+          "operations_data": {
+            "detection_date": "2020-07-12T09:59:47+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "lauravhuber.6834250830472809733",
+          "platform": "tt",
+          "published": "2020-06-03T22:23:41+00:00",
+          "video_id": "tt.lauravhuber.6834250830472809733",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:26+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "fonziegomez.6841029535866064133",
+          "platform": "tt",
+          "published": "2020-06-22T04:48:36+00:00",
+          "video_id": "tt.fonziegomez.6841029535866064133",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:26+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "haxens.6832607719837519109",
+          "platform": "tt",
+          "published": "2020-05-30T12:07:34+00:00",
+          "video_id": "tt.haxens.6832607719837519109",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:26+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        },
+        {
+          "id": "ilar.yy.6844532309748731141",
+          "platform": "tt",
+          "published": "2020-07-01T15:21:05+00:00",
+          "video_id": "tt.ilar.yy.6844532309748731141",
+          "operations_data": {
+            "detection_date": "2020-07-09T11:16:26+00:00",
+            "crawler_type": "textual",
+            "text_queries": [
+              "#sport"
+            ]
+          },
+          "connected_assets": [
+            
+          ]
+        }
+      ]
+    }
+  }
