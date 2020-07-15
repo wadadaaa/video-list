@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { VideosService } from 'src/app/shared/services/videos.service';
+import { DomSanitizer } from '@angular/platform-browser';
 
 @Component({
   selector: 'app-video',
@@ -17,11 +18,15 @@ export class VideoComponent implements OnInit {
   welcomeMessage = "Video List";  
   videos = null;
 
-  constructor(private videosService: VideosService) { }
+  constructor(private videosService: VideosService, private sanitizer: DomSanitizer) { }
 
   ngOnInit(): void {
     this.videos = this.videosService.getAllVideoData()
     .subscribe(videos => this.videos = videos)
+  }
+
+  getEmbedUrl(videoUrl: string) {
+    return this.sanitizer.bypassSecurityTrustResourceUrl(videoUrl);
   }
 
 }

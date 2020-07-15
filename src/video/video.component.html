@@ -1,14 +1,17 @@
   <div class="container" *ngFor="let video of videos.items">
     <div class="plan">
-      <h2><span>{{ video.title }}</span>
-        </h2>
-          <div class="video">
-          <!-- <iframe [src]="video.embed_code"
-           width="250" height="315" frameborder="0" allowfullscreen></iframe> -->
-
-           <iframe src="https://www.youtube.com/embed/NZ2_mOTc4TM"
-           width="250" height="315" frameborder="0" allowfullscreen></iframe>
-        </div> 
+      <h2><span>{{ video.title }}</span></h2>
+        <div class="video" *ngIf="video.embed_code;else content">
+          <iframe [src]="getEmbedUrl(video.embed_code)"
+             width="250" height="315" frameborder="0" allowfullscreen>
+         </iframe>
+        </div>    
+        <ng-template #content>
+          <video width="250" height="315" controls>
+            <source [src]="getEmbedUrl(video.channel.url)" type="video/mp4" />
+            Browser not supported
+        </video>
+        </ng-template>
       <p>
         <span>Published: </span>{{ video.published | date }} <br>
         <span>Duration: </span>{{ video.duration }}
