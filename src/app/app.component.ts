@@ -9,6 +9,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'video-test';
   links = [
-    { path: '/home', icon: 'home', title: 'Home' }
+    { path: '/video', icon: 'video', title: 'Video' }
   ];
 }
