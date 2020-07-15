@@ -14,6 +14,6 @@
         </ng-template>
       <p>
         <span>Published: </span>{{ video.published | date }} <br>
-        <span>Duration: </span>{{ video.duration }}
+        <span>Duration: </span>{{getConvertedDuration(video.duration)}}
       </p>
   </div> 

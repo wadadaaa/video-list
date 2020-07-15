@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { VideosService } from 'src/app/shared/services/videos.service';
 import { DomSanitizer } from '@angular/platform-browser';
+import * as moment from 'moment';
 
 @Component({
   selector: 'app-video',
@@ -15,7 +16,6 @@ import { DomSanitizer } from '@angular/platform-browser';
   `]
 })
 export class VideoComponent implements OnInit {
-  welcomeMessage = "Video List";  
   videos = null;
 
   constructor(private videosService: VideosService, private sanitizer: DomSanitizer) { }
@@ -27,6 +27,10 @@ export class VideoComponent implements OnInit {
 
   getEmbedUrl(videoUrl: string) {
     return this.sanitizer.bypassSecurityTrustResourceUrl(videoUrl);
+  }
+
+  getConvertedDuration(seconds: number) {
+    return moment.utc(seconds*1000).format('HH:mm:ss');
   }
 
 }
