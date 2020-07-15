@@ -1,16 +1,16 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
+// import { Video } from './videos.interface';
 
-const BASE_URL = 'http://localhost:3000/';
+const BASE_URL = 'http://localhost:3000/videos_log';
 
 @Injectable({
   providedIn: 'root'
 })
 export class VideosService {
-  private model = 'data'
   constructor(private http: HttpClient) { }
 
-  all() {
-    return this.http.get(`${BASE_URL}${this.model}`);
+  getAllVideoData() {
+    return this.http.get(BASE_URL);
   }
 }

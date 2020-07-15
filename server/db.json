@@ -1,1153 +1,1357 @@
 {
-    "data": {
-      "videos_log_by_ids": [
+    "videos_log": {
+      "offset_token": "BfJy67",
+      "total_count": 1234567,
+      "items": [
         {
-          "id": "dJba7w1C9Vk",
-          "platform": "ok",
-          "published": "2020-07-11T08:30:00+00:00",
-          "video_id": "ok.dJba7w1C9Vk",
-          "operations_data": {
-            "detection_date": "2020-07-12T10:29:33+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "fortnite 2"
-            ]
+          "id": "NZ2_mOTc4TM",
+          "platform": "yt",
+          "video_id": "yt.NZ2_mOTc4TM",
+          "title": "Milan 4-2 Juventus | Ronaldo Goal Not Enough as Milan Stun Serie A Leaders! | Serie A TIM",
+          "title_url": "https://www.youtube.com/watch?v=NZ2_mOTc4TM",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/yt.NZ2_mOTc4TM?Expires=2225428259&Signature=iGdpw1ylvOzRW9QQ5L73kWJ3YOeRAoku5PTRuCTQ65PJCUNNmCRh8hybPkNTuXmVyGNCq0gVbtlG7EpGEbnQwb~dCGYCTPCZxjtaXQDWgGDmiL9UUMWkld4E8JWOU22jkPiwZiq-DTDlZE2X2mUouHyZPOhjNLkEcL10ox0mht8NJPC3Ve5a~Z0DWQ~P0sRyoRj74w-83jGsASgHcKTUkDzHRU7HV-suo7ozOktX4QMNzhzAnGJ4fnt-hPYJX0h0wojTvhoKUt~vFpEDip5bpaZxoU3tODKoKvEi-PiJ9LgV6Sm34U3hjPbjXyzZeAKcfnXSmes6tYwfB0PE5kd1Gw__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.youtube.com/watch?v=NZ2_mOTc4TM",
+          "duration": 254,
+          "published": "2020-07-07T22:35:53+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": null,
+          "embed_code": "https://www.youtube.com/embed/NZ2_mOTc4TM",
+          "engagement": {
+            "views": 17957414,
+            "likes": 265110,
+            "shares": null
           },
-          "connected_assets": [
-            {
-              "asset": {
-                "asset_id": "91439fd6-d687-4c05-8",
-                "status": "Active",
-                "creation_date": "2019-04-14T00:00:00+00:00",
-                "owner": "QA Staging",
-                "customer_id": "f7fee4d0-5b76-11e9-b755-0242ac110002",
-                "name": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                "reference_list": [
-                  {
-                    "url_id": "974502823170",
-                    "reference_id": "ok.974502823170",
-                    "platform": "ok",
-                    "search_start_date_offset": 1,
-                    "execution_policy": "One Time",
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Deleted",
-                    "creation_date": "2019-04-11T07:58:36.181763+00:00"
-                  },
-                  {
-                    "url_id": "1042519295260",
-                    "reference_id": "ok.1042519295260",
-                    "platform": "ok",
-                    "search_start_date_offset": 1,
-                    "execution_policy": "One Time",
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Deleted",
-                    "creation_date": "2019-04-17T10:04:11.263417+00:00"
-                  },
-                  {
-                    "url_id": "7hHECMVOq7g",
-                    "reference_id": "yt.7hHECMVOq7g",
-                    "platform": "yt",
-                    "search_start_date_offset": 1,
-                    "execution_policy": "Weekly",
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Active",
-                    "creation_date": "2019-08-11T19:13:49.167828+00:00"
-                  }
-                ]
-              },
-              "connected_references": [
-                {
-                  "status": "infringing_sent_for_review",
-                  "source": "Human",
-                  "reference": {
-                    "url_id": "974502823170",
-                    "reference_id": "ok.974502823170",
-                    "platform": "ok",
-                    "search_start_date_offset": 1,
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Deleted",
-                    "creation_date": "2019-04-11T07:58:36.181763+00:00"
-                  },
-                  "matches": [
-                    
-                  ]
-                },
-                {
-                  "status": "infringing_sent_for_review",
-                  "source": "Human",
-                  "reference": {
-                    "url_id": "1042519295260",
-                    "reference_id": "ok.1042519295260",
-                    "platform": "ok",
-                    "search_start_date_offset": 1,
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Deleted",
-                    "creation_date": "2019-04-17T10:04:11.263417+00:00"
-                  },
-                  "matches": [
-                    
-                  ]
-                },
-                {
-                  "status": "infringing_sent_for_review",
-                  "source": "Human",
-                  "reference": {
-                    "url_id": "7hHECMVOq7g",
-                    "reference_id": "yt.7hHECMVOq7g",
-                    "platform": "yt",
-                    "search_start_date_offset": 1,
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Active",
-                    "creation_date": "2019-08-11T19:13:49.167828+00:00"
-                  },
-                  "matches": [
-                    
-                  ]
-                }
-              ],
-              "asset_owner": "QA Staging"
-            }
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": null,
+            "url": "https://www.youtube.com/channel/UCBJeMCIeLQos7wacox4hmLQ"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "P38zId5tx9w",
-          "platform": "ok",
-          "published": "2020-07-07T00:00:00+00:00",
-          "video_id": "ok.P38zId5tx9w",
-          "operations_data": {
-            "detection_date": "2020-07-12T10:29:14+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "fortnite"
-            ]
+          "id": "DwbjVvth5GE",
+          "platform": "yt",
+          "video_id": "yt.DwbjVvth5GE",
+          "title": "עונת 2019/20, בית תחתון, מחזור 7: מכבי אשדוד - הפועל ת\"א 105:106, לאחר הארכה",
+          "title_url": "https://www.youtube.com/watch?v=DwbjVvth5GE",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/yt.DwbjVvth5GE?Expires=2225428259&Signature=QDNrLyB6RlXg4TSImkwqZlZOmjL-XO0BhwQtvbx7NsxCVmUWqezaQ-ZqOdQ0pdwusRiSzLOWqPrYcaSkzibeD-wV02WokcudJ81SQSrGsJesJcGpqN0~TiN7YX0pa8UfZCaTl864I4IxCRg-2IWmh1KBDEGb3aLNaTu2oH7ArQoCHddzM0aHTCv73lG9txWXgQfS7vpPUlTIUJyW8zMU2PDEfJjUZW3YIKSBGN1UIpVfFkSnoAByKlAAGOPu5rhaOdZL~42Y4JYxsCCZ0Fh44Fy2ANWU7FVrpYDGX6uHfEtNpPAY00tROaZ1cfq0PRRcIApPxv5wZ044BsD60Q3JdQ__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.youtube.com/watch?v=DwbjVvth5GE",
+          "duration": 303,
+          "published": "2020-07-13T16:45:13+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": null,
+          "embed_code": "https://www.youtube.com/embed/DwbjVvth5GE",
+          "engagement": {
+            "views": 123,
+            "likes": 7,
+            "shares": null
           },
-          "connected_assets": [
-            {
-              "asset": {
-                "asset_id": "91439fd6-d687-4c05-8",
-                "status": "Active",
-                "creation_date": "2019-04-14T00:00:00+00:00",
-                "owner": "QA Staging",
-                "customer_id": "f7fee4d0-5b76-11e9-b755-0242ac110002",
-                "name": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                "reference_list": [
-                  {
-                    "url_id": "974502823170",
-                    "reference_id": "ok.974502823170",
-                    "platform": "ok",
-                    "search_start_date_offset": 1,
-                    "execution_policy": "One Time",
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Deleted",
-                    "creation_date": "2019-04-11T07:58:36.181763+00:00"
-                  },
-                  {
-                    "url_id": "1042519295260",
-                    "reference_id": "ok.1042519295260",
-                    "platform": "ok",
-                    "search_start_date_offset": 1,
-                    "execution_policy": "One Time",
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Deleted",
-                    "creation_date": "2019-04-17T10:04:11.263417+00:00"
-                  },
-                  {
-                    "url_id": "7hHECMVOq7g",
-                    "reference_id": "yt.7hHECMVOq7g",
-                    "platform": "yt",
-                    "search_start_date_offset": 1,
-                    "execution_policy": "Weekly",
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Active",
-                    "creation_date": "2019-08-11T19:13:49.167828+00:00"
-                  }
-                ]
-              },
-              "connected_references": [
-                {
-                  "status": "infringing_sent_for_review",
-                  "source": "Human",
-                  "reference": {
-                    "url_id": "974502823170",
-                    "reference_id": "ok.974502823170",
-                    "platform": "ok",
-                    "search_start_date_offset": 1,
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Deleted",
-                    "creation_date": "2019-04-11T07:58:36.181763+00:00"
-                  },
-                  "matches": [
-                    
-                  ]
-                },
-                {
-                  "status": "infringing_sent_for_review",
-                  "source": "Human",
-                  "reference": {
-                    "url_id": "1042519295260",
-                    "reference_id": "ok.1042519295260",
-                    "platform": "ok",
-                    "search_start_date_offset": 1,
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Deleted",
-                    "creation_date": "2019-04-17T10:04:11.263417+00:00"
-                  },
-                  "matches": [
-                    
-                  ]
-                },
-                {
-                  "status": "infringing_sent_for_review",
-                  "source": "Human",
-                  "reference": {
-                    "url_id": "7hHECMVOq7g",
-                    "reference_id": "yt.7hHECMVOq7g",
-                    "platform": "yt",
-                    "search_start_date_offset": 1,
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Active",
-                    "creation_date": "2019-08-11T19:13:49.167828+00:00"
-                  },
-                  "matches": [
-                    
-                  ]
-                }
-              ],
-              "asset_owner": "QA Staging"
-            }
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": null,
+            "url": "https://www.youtube.com/channel/UCNWMa_pdt1GIWH_zwbTldEQ"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "N43nk2zNE04",
-          "platform": "ok",
-          "published": "2020-07-10T00:00:00+00:00",
-          "video_id": "ok.N43nk2zNE04",
-          "operations_data": {
-            "detection_date": "2020-07-12T10:28:47+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#cristianoronaldo"
-            ]
+          "id": "103717801412517.274380587184073",
+          "platform": "fb",
+          "video_id": "fb.103717801412517.274380587184073",
+          "title": "Avi Deol on Facebook Watch",
+          "title_url": "https://www.facebook.com/103717801412517/videos/274380587184073",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.103717801412517.274380587184073?Expires=2225428259&Signature=c3jmrHtcsrAmBeQMx8iM5Mqwn4xg-~Tcr~g~-mU11Vv6Kse1YuaS0ZLvhGJPmKNdB4v-InmR0U1BLnokYzaANWnKl1efBza6ZUnmkYzkpGsLZBVED-d~ritCoazuS-zMCWtLe9xSATpiLWZiUpfzswciCHJRFuj19kVxuFyK2tmY4DeNXynqGBPr8bNR~Z2iHUJNCjM3hSU8noqi9Hdw4WCb9ZCZNwFna7JzoOTTaI4YHI1Fjjgc-iyGe8DKDWWmgFl3sDsZSvMiExexTKhQjI6b4LzjjJ3L-D5~L2qeooJZWaurKzff4972J0JMPS90d~mntvn-wGWDL7tId5wuwQ__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/103717801412517/videos/274380587184073",
+          "duration": 190,
+          "published": "2020-07-05T10:35:15+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/103571573_266308667988587_7628478106826035391_n.mp4?_nc_cat=110&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=YzhX6J9CkygAX8PqsRU&_nc_ht=video-iad3-1.xx&oh=6e972be78851b2b1b6def9f7e787e325&oe=5F279B37",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F103717801412517%2Fvideos%2F274380587184073",
+          "engagement": {
+            "views": 8,
+            "likes": 1,
+            "shares": 0
           },
-          "connected_assets": [
-            {
-              "asset": {
-                "asset_id": "91439fd6-d687-4c05-8",
-                "status": "Active",
-                "creation_date": "2019-04-14T00:00:00+00:00",
-                "owner": "QA Staging",
-                "customer_id": "f7fee4d0-5b76-11e9-b755-0242ac110002",
-                "name": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                "reference_list": [
-                  {
-                    "url_id": "974502823170",
-                    "reference_id": "ok.974502823170",
-                    "platform": "ok",
-                    "search_start_date_offset": 1,
-                    "execution_policy": "One Time",
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Deleted",
-                    "creation_date": "2019-04-11T07:58:36.181763+00:00"
-                  },
-                  {
-                    "url_id": "1042519295260",
-                    "reference_id": "ok.1042519295260",
-                    "platform": "ok",
-                    "search_start_date_offset": 1,
-                    "execution_policy": "One Time",
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Deleted",
-                    "creation_date": "2019-04-17T10:04:11.263417+00:00"
-                  },
-                  {
-                    "url_id": "7hHECMVOq7g",
-                    "reference_id": "yt.7hHECMVOq7g",
-                    "platform": "yt",
-                    "search_start_date_offset": 1,
-                    "execution_policy": "Weekly",
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Active",
-                    "creation_date": "2019-08-11T19:13:49.167828+00:00"
-                  }
-                ]
-              },
-              "connected_references": [
-                {
-                  "status": "infringing_sent_for_review",
-                  "source": "Human",
-                  "reference": {
-                    "url_id": "974502823170",
-                    "reference_id": "ok.974502823170",
-                    "platform": "ok",
-                    "search_start_date_offset": 1,
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Deleted",
-                    "creation_date": "2019-04-11T07:58:36.181763+00:00"
-                  },
-                  "matches": [
-                    
-                  ]
-                },
-                {
-                  "status": "infringing_sent_for_review",
-                  "source": "Human",
-                  "reference": {
-                    "url_id": "1042519295260",
-                    "reference_id": "ok.1042519295260",
-                    "platform": "ok",
-                    "search_start_date_offset": 1,
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Deleted",
-                    "creation_date": "2019-04-17T10:04:11.263417+00:00"
-                  },
-                  "matches": [
-                    
-                  ]
-                },
-                {
-                  "status": "infringing_sent_for_review",
-                  "source": "Human",
-                  "reference": {
-                    "url_id": "7hHECMVOq7g",
-                    "reference_id": "yt.7hHECMVOq7g",
-                    "platform": "yt",
-                    "search_start_date_offset": 1,
-                    "text_queries": [
-                      
-                    ],
-                    "title": "Disney's Aladdin - Special Look:  In Theaters May 24",
-                    "views": null,
-                    "status": "Active",
-                    "creation_date": "2019-08-11T19:13:49.167828+00:00"
-                  },
-                  "matches": [
-                    
-                  ]
-                }
-              ],
-              "asset_owner": "QA Staging"
-            }
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Avi Deol",
+            "url": "https://www.facebook.com/103717801412517"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "2364158910442",
-          "platform": "ok",
-          "published": "2020-07-01T00:00:00+00:00",
-          "video_id": "ok.2364158910442",
-          "operations_data": {
-            "detection_date": "2020-07-12T10:09:17+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100007821697501.2677696682501029",
+          "platform": "fb",
+          "video_id": "fb.100007821697501.2677696682501029",
+          "title": "Avi",
+          "title_url": "https://www.facebook.com/100007821697501/videos/2677696682501029",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100007821697501.2677696682501029?Expires=2225428259&Signature=dYKl9T~OgeyeHBHVXIu3fOa2b1r-OP~uSXXaEAtrBz16SnXsf8zUzFh-LlaY7h7sapmFUPGij6TsJaaf6-dUCgeMdGMWkrxmCiLyus8sAnrIiDA2iEr1WRkcThn4S0OXik3NauZUIXD0d75LwbIsVaCPXysVOFHL8JbkVrRT1uL1-McdYvFdo~UurVh5PnvsB~j73bIQ8mR0SVusN3QPMgDisO~i6EOIHL-9lrGHvhEAQXsv2sAALJGZPc5N7atHucS~6a5p~JrfH5ZbiifVWzHSW-Ch2pVetnyFSQuDLCU4btovCbouY4RhU~rQOpug5ZH~~NhOrno9leEmcRndrg__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100007821697501/videos/2677696682501029",
+          "duration": 399,
+          "published": "2020-07-05T10:20:25+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_3055606344488923_3536738263296956422_n.mp4?_nc_cat=108&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=a8OhATjY_vUAX-f7qIk&_nc_ht=video-iad3-1.xx&oh=6a0a6e96d454c0e88921d94e7471a388&oe=5F269380",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100007821697501%2Fvideos%2F2677696682501029",
+          "engagement": {
+            "views": 529,
+            "likes": 19,
+            "shares": 13
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Avi Sharma",
+            "url": "https://www.facebook.com/100007821697501"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "OE2eRwuixfI",
-          "platform": "ok",
-          "published": "2020-05-23T00:00:00+00:00",
-          "video_id": "ok.OE2eRwuixfI",
-          "operations_data": {
-            "detection_date": "2020-07-12T10:10:02+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "fortnite live"
-            ]
+          "id": "111681663912573.863778524112370",
+          "platform": "fb",
+          "video_id": "fb.111681663912573.863778524112370",
+          "title": "Sad Shayari in hindi 😢💔🖤 | WhatsApp Status | Avinash Avi Arya",
+          "title_url": "https://www.facebook.com/111681663912573/videos/863778524112370",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.111681663912573.863778524112370?Expires=2225428259&Signature=gcKM~5ZiMCrS5PzzIXWA~tHhE2nT378ZHGZspjG-4BLwd-EFCnz1hGqjWzDom0lgYsCPp5tG0ZAeqGN-YcxGcsuDkNXqVgSow9dawWH22myRgnQMC~gN-ids-yXAvOPFkhKmTV3syDRhe8tS0qeVfp5NkYHr8~XLUYXl6corFYWOiOQHuHDVPvYV1vGRgz56TaAG8V3n3LTkQZHjs1zVR9yItOvwJihEnpKG5uxT4ffm5H8P4muPIJTO3p6CUWwRJadEpfIDAaaOKZdoUvxkB9Zte6wKMiuTKMYIy3Qb84rXuiv-6S8wj0XyW0ocBcZx0yKF~cwnqhIO3RlfS3p1wA__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/111681663912573/videos/863778524112370",
+          "duration": 16,
+          "published": "2020-07-05T06:22:23+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/106760729_205679630695194_508512876957582102_n.mp4?_nc_cat=107&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=7s59ZtXETq8AX_iXQkC&_nc_ht=video-iad3-1.xx&oh=500350499bb1dc5a279664ae53168766&oe=5F299E38",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F111681663912573%2Fvideos%2F863778524112370",
+          "engagement": {
+            "views": 231,
+            "likes": 5,
+            "shares": 11
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 47,
+            "name": "Avinash Avi Arya",
+            "url": "https://www.facebook.com/111681663912573"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "mkpKJaTm84A",
-          "platform": "ok",
-          "published": "2020-05-22T00:00:00+00:00",
-          "video_id": "ok.mkpKJaTm84A",
-          "operations_data": {
-            "detection_date": "2020-07-12T10:09:59+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "fortnite 2"
-            ]
+          "id": "107436754251578.780858789406303",
+          "platform": "fb",
+          "video_id": "fb.107436754251578.780858789406303",
+          "title": "Balık avı",
+          "title_url": "https://www.facebook.com/107436754251578/videos/780858789406303",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.107436754251578.780858789406303?Expires=2225428259&Signature=fiv6-f2fyv7yu~UoiejE5cQvXuiq1UB5pSFxriUuWO93AB4yzfK0MSwjwIYzFyZzUtaT8onGazzFZ6qoULYUFRml71ck44xRgKvy927JUobIoxneZ33kq5ZnlLvftbKXW7yYWUM9PTfvAVPn0tlEOAiRuWU8hworjUDg1fGWu6KjCaesYaiYcoqTmDpJrxFD4hQlTFVeMQGccABmdgd-JAD0kaemVaZzjG45MJfiZeTFZ9V8y2KKe1Dz10PipaMxK8ezfIYPTBgQoJoj9Ss1gffTNPycTwNLBNzPsda~YbrpNEIKksGTJk9etxLX1vfDHB1rVvNr-MsBkJMmpvm7aA__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/107436754251578/videos/780858789406303",
+          "duration": 348,
+          "published": "2020-07-05T14:38:00+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t42.9040-2/10000000_863489287472086_5091875097938724241_n.mp4?_nc_cat=105&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=TY56Jmr9nTwAX8LByXI&_nc_ht=video-iad3-1.xx&oh=9f45643dc54a4f1dd48497de74bb0f14&oe=5F02C1CA",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F107436754251578%2Fvideos%2F780858789406303",
+          "engagement": {
+            "views": 410,
+            "likes": 4,
+            "shares": 5
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 1822,
+            "name": "Belgeselim",
+            "url": "https://www.facebook.com/107436754251578"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "9FCRaSwU3W8",
-          "platform": "ok",
-          "published": "2020-06-17T00:00:00+00:00",
-          "video_id": "ok.9FCRaSwU3W8",
-          "operations_data": {
-            "detection_date": "2020-07-12T10:09:58+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "fortnite 2"
-            ]
+          "id": "124248943467.2768364383383094",
+          "platform": "fb",
+          "video_id": "fb.124248943467.2768364383383094",
+          "title": "Avi Rosenfeld - When You Came Into My Life",
+          "title_url": "https://www.facebook.com/124248943467/videos/2768364383383094",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.124248943467.2768364383383094?Expires=2225428259&Signature=MIW~tDeUlX5um0VKiriPxUlik8yF1Cw9~RnCKiK7ewsYW29ouTaBDAqcwiGBMulCmn8OLo5DaUw68re6ucRiUl01D0yQc52Z~EHlUalQDGUApBWELssfCBURy3Mb1c2wP2V0tAFZUg2OW~kc97JEzDW3ND97NeLIQ6S-KeixwTaqFT7VFj44XHHgeCmsBUjbwnmgoaEDqaW5~013mmFjPvxeTuERSsId1fMpmoFFHpXicW2bCmELkDp6X9dAdxEzk1lnDYeCT2tX~2V8Nv17F57pmG~ExTiKnSdbTXrrncFFg8nb5uMaUj3ZIrubBUcw9odSHcF5wo0A5ryKnKM62Q__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/124248943467/videos/2768364383383094",
+          "duration": 280,
+          "published": "2020-07-05T11:47:41+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/107008121_279500336590813_6666350682714729007_n.mp4?_nc_cat=108&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=sGi6Vh1SpbEAX8HbzHG&_nc_ht=video-iad3-1.xx&oh=69034fddd568f2f0a4e5e904d644e00e&oe=5F26472D",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F124248943467%2Fvideos%2F2768364383383094",
+          "engagement": {
+            "views": 46,
+            "likes": 9,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 2697,
+            "name": "Avi Rosenfeld",
+            "url": "https://www.facebook.com/124248943467"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "qoYjkKE1jKw",
-          "platform": "ok",
-          "published": "2020-06-17T00:00:00+00:00",
-          "video_id": "ok.qoYjkKE1jKw",
-          "operations_data": {
-            "detection_date": "2020-07-12T10:09:58+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "fortnite 2"
-            ]
+          "id": "101675041499718.571066210248654",
+          "platform": "fb",
+          "video_id": "fb.101675041499718.571066210248654",
+          "title": "Streamer Trio in the Warzone",
+          "title_url": "https://www.facebook.com/101675041499718/videos/571066210248654",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.101675041499718.571066210248654?Expires=2225428259&Signature=IKFj~sPAsMSa6lxgY9bPKTNoXeWWR7v-fn6bfBHAmDIElUYWWzYgGJgSAmI45ifn~4ACtfLfQWoyBTJSliEu5DjcOM3Nu74dEKxg6DX6TrszKPmHCmHsJk1cz~J29h1-5a6xNkdwbqtgAqXHJQHKok3YOcicJZICLWZE74ykkdazzFPmjH0UHM7Cg01VQkS5X8J0DGqpfQ7BK60~7Q9fjwfsCpTHo7rV4r2dxY~12afuPqR81M4ibDAHMj6F1irl4RIeDO6gQK9-QDBkJtq-rbILBWPFVPlvtdp4RxZc6m89zbM~uvybPVdmF2Up~Ivppjc2m2aYx-wPyg6eUHJXWQ__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/101675041499718/videos/571066210248654",
+          "duration": null,
+          "published": "2020-07-06T00:59:37+00:00",
+          "video_status": null,
+          "live_status": "live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/hvideo-cln-odn/_nc_cat-106/v/rkRbqhXeHcrZOjaD0s2MA/live-dash/dash-abr-ibr-audio/148924880108067.mpd?_nc_rl=AfDERN32_AwOzRWM&ms=m_CN&oh=ed5550cbc41516305d73b67001a91c7c&oe=5F049938",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F435353750259337%2Fvideos%2F571066210248654",
+          "engagement": {
+            "views": 0,
+            "likes": 17,
+            "shares": 50
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "MariN8ed",
+            "url": "https://www.facebook.com/101675041499718"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "5ALz-NWDe9A",
-          "platform": "ok",
-          "published": "2020-06-18T00:00:00+00:00",
-          "video_id": "ok.5ALz-NWDe9A",
-          "operations_data": {
-            "detection_date": "2020-07-12T10:09:58+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "fortnite 2"
-            ]
+          "id": "156923964360897.1207400106287155",
+          "platform": "fb",
+          "video_id": "fb.156923964360897.1207400106287155",
+          "title": "Terry Gajraj & Jumo Primo - Shake Yuh Kangkalang",
+          "title_url": "https://www.facebook.com/156923964360897/videos/1207400106287155",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.156923964360897.1207400106287155?Expires=2225428259&Signature=bJ-kgCBn4Iqw3g3A6JxUXic-9yJ34peQa-g9xXt97EzyBw5VWerHKgnB3r0jScyUhytvcr2vCaowyX-HPmhM7AHuP8SYcgETX9c11Cado1wMjuANz7oynYd7WvuX-T6UJw7n7Ahius-6mZVDx9-67jT5ixPzNIxqRgy-8otcb4HeWX8IrEvtZa5sY~n2QK9tcG4pep5qWSx0mjdMqQt0j04~Q73fjKgszLk3miLoVwx9FEa0o-UjO4dcnOeJajvsPPeoHvNC6EesGVuPjxpSUx0yp9kGwAAyUDsJhERjsN9fKIo9B01T8gWfh-FIaMatqqOEfq2hZ~evSQwFxkfiVg__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/156923964360897/videos/1207400106287155",
+          "duration": 230,
+          "published": "2020-07-05T19:03:44+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_721380935297360_2091591574564424981_n.mp4?_nc_cat=110&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=5-B3A81hyNkAX_sv263&_nc_ht=video-iad3-1.xx&oh=1ce1a07663f46035deed501c1db0867f&oe=5F28B383",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F156923964360897%2Fvideos%2F1207400106287155",
+          "engagement": {
+            "views": 14,
+            "likes": 3,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 1564,
+            "name": "Guyana Baboo",
+            "url": "https://www.facebook.com/156923964360897"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "6NeOFX4MLfg",
-          "platform": "ok",
-          "published": "2020-06-21T00:00:00+00:00",
-          "video_id": "ok.6NeOFX4MLfg",
-          "operations_data": {
-            "detection_date": "2020-07-12T10:09:36+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "fortnite"
-            ]
+          "id": "100006404319708.2641392989417486",
+          "platform": "fb",
+          "video_id": "fb.100006404319708.2641392989417486",
+          "title": "Nikki",
+          "title_url": "https://www.facebook.com/100006404319708/videos/2641392989417486",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100006404319708.2641392989417486?Expires=2225428259&Signature=AWu7U46zxsiWedUgzeK-PoG0cT0WBY-kf9oxkO7Hc16oHsY5P50OWPk9JjUYFf-qQnOd-KO-~lrrvp6fFs5siya6RhDE8JoD6-zhSGOJvd684AI-Z2C6WYHL46a4uO-PuvpSB9ah3Xty2~e-Enr~2kErdLSLrqoNww1O3thrb3jid4KGDPVmqZlt~aprHEZbwtd3JXIsQXL13N6QKT3lL-f7IHxvzqCcPwc5IY0hcMYyyPHgjMK8nRoGIhjL7u2bywzOaIRvS5xExDZpiKBa6INQESwO6vWDAXeN0ZGzX7FfufzvBBipFfh19C5Cy-3uWfZEMe0qD0fFY74QOjXqPQ__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100006404319708/videos/2641392989417486",
+          "duration": 31,
+          "published": "2020-07-06T01:58:57+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_284588772789342_6276035515618161932_n.mp4?_nc_cat=111&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=ePApoKYRkioAX-fsWSA&_nc_ht=video-iad3-1.xx&oh=7212f21d66c888b39878863bb2f16665&oe=5F26E142",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100006404319708%2Fvideos%2F2641392989417486",
+          "engagement": {
+            "views": 25,
+            "likes": 2,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Nikki Anderson",
+            "url": "https://www.facebook.com/100006404319708"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "UwpAfSwffLs",
-          "platform": "ok",
-          "published": "2020-05-24T00:00:00+00:00",
-          "video_id": "ok.UwpAfSwffLs",
-          "operations_data": {
-            "detection_date": "2020-07-12T10:09:35+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "fortnite"
-            ]
+          "id": "100000152747241.3671717692843286",
+          "platform": "fb",
+          "video_id": "fb.100000152747241.3671717692843286",
+          "title": "Facebook video #3671717692843286",
+          "title_url": "https://www.facebook.com/100000152747241/videos/3671717692843286",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100000152747241.3671717692843286?Expires=2225428259&Signature=OTZLbClAelHOHxXbDuyX7F26iCQnYiPOZbWmj7n25HtZ1fEbdlRfT5p1FbHxai3GoHSjALK0xIeIV1lYdZIgf9fqR95fipO5RynZrD5PEPKdJMbkhhg9U0Kwl-qJZKXpMz-eOPF2P3BEm46F~4wQa3w9XdjxZq~5u-5TDArjSK-s2vw85MYu02nuVdDmEfAYtpu7xqMYCxX7lcm6nR4ZqEh~jRPivcH-PrbuEX6U23V1JewVOHLrp5j7X2p9~DVyE1SP1kdWE6CIAszYIU5~tQ8umtWeFqniPtxNXyg1aL2Wv4lcza3KALq6xC262HgOytnJ79Ah5OxpeCYsu01V9w__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100000152747241/videos/3671717692843286",
+          "duration": 27,
+          "published": "2020-07-05T09:05:53+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/107467570_622275441743281_6714459264608146723_n.mp4?_nc_cat=108&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=zeFOiLun93kAX-itTFm&_nc_ht=video-iad3-1.xx&oh=fdd8b4189cf2d088d565c3e79df19fd4&oe=5F290CE6",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100000152747241%2Fvideos%2F3671717692843286",
+          "engagement": {
+            "views": 0,
+            "likes": 4,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Avi Bros",
+            "url": "https://www.facebook.com/100000152747241"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "niccolo.alcini.6842060678023466246",
-          "platform": "tt",
-          "published": "2020-06-24T23:29:54+00:00",
-          "video_id": "tt.niccolo.alcini.6842060678023466246",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:26+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100025120622900.667594917421190",
+          "platform": "fb",
+          "video_id": "fb.100025120622900.667594917421190",
+          "title": "Facebook video #667594917421190",
+          "title_url": "https://www.facebook.com/100025120622900/videos/667594917421190",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100025120622900.667594917421190?Expires=2225428259&Signature=TOPjthoKtsG-XcuEIFNCuy6hiXXutA34x07rxUF6Wy98FRORT5jIaTYCK8O-XFYNyJdWffHo-lV4mnSeSk78s3isqxA7Wn~z8ZX4LC5YScSs5pMv6xBAa0fA1JVNh7Slbr-vjVlHsQdLPLzpGIUZ5fP2KmxuYIPwVpXOqnZCCo60GEjX1OyAjF-J8NVGIjl~D4Sq3rwvuJ3l83gK-2~lZ2R0lT7I9mb80pAMp4ql1G5AZcyDibbQNLEuDpKu96fOoHp-aFqV~alDeO-p7QtfxwixN2Z6AhG2~-HFgOB6fWGGFBB1QSj9w04HNlKJI9gajggkH5ykAgWbAvw5NRIUtw__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100025120622900/videos/667594917421190",
+          "duration": 67,
+          "published": "2020-07-06T00:11:00+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_306144937125637_8523973895452427391_n.mp4?_nc_cat=103&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=A2FG2K1cEkoAX92j3eX&_nc_ht=video-iad3-1.xx&oh=305ccc82637f6353c2e76f1969a4751a&oe=5F29AD7E",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100025120622900%2Fvideos%2F667594917421190",
+          "engagement": {
+            "views": 0,
+            "likes": 0,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Dennis Bila-an",
+            "url": "https://www.facebook.com/100025120622900"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "gethecamera.6836342488534355205",
-          "platform": "tt",
-          "published": "2020-06-09T13:40:23+00:00",
-          "video_id": "tt.gethecamera.6836342488534355205",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:26+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "130039497846095.711991609376217",
+          "platform": "fb",
+          "video_id": "fb.130039497846095.711991609376217",
+          "title": "Where are Bunny, Naina, Aditi & Avi now?",
+          "title_url": "https://www.facebook.com/130039497846095/videos/711991609376217",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.130039497846095.711991609376217?Expires=2225428259&Signature=hmYzb8MrdHGVCTWkBB~6oUWONJdVrhvTbXj~Ody~q--kqeWohuBmYAbgwkTra~m1dbaETvb6K75h4oHeyvIyk-5BIeZi3Z0TLULvISu2AliQ8F6Dtf2ZyUFG~ZkkF63U6H9Z0602V79wyuhImzlVZri88DdtbN~XUaDweYgy0npiL9hT~IY8R1bsuT3zlcdS79ZPOqIUqyjYqMD8BHqqsPKc-fPdLzFvDyhJ318m4nqCJMix9bB-47Inf96epWBhZXKWJ5hj36z0BWSEFNhIg50kgAy5LEASz3jGvJhNieXFPbfTJtw75PmDKMn3mgoZ7s7RV1kNAceSj1RqJPblOg__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/130039497846095/videos/711991609376217",
+          "duration": 163,
+          "published": "2020-07-05T12:42:44+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_1004621286661569_5786897938147356218_n.mp4?_nc_cat=111&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=JtVMguio4dkAX9sTd5J&_nc_ht=video-iad3-1.xx&oh=1f87040ac2adbec5248452bee1c7dfb4&oe=5F29A8EE",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F130039497846095%2Fvideos%2F711991609376217",
+          "engagement": {
+            "views": 32,
+            "likes": 4,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 150,
+            "name": "Popcorn Pixel",
+            "url": "https://www.facebook.com/130039497846095"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "haxens.6834820183694068998",
-          "platform": "tt",
-          "published": "2020-06-05T11:13:04+00:00",
-          "video_id": "tt.haxens.6834820183694068998",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:26+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "1081904509.10219233921533807",
+          "platform": "fb",
+          "video_id": "fb.1081904509.10219233921533807",
+          "title": "Abhishek",
+          "title_url": "https://www.facebook.com/1081904509/videos/10219233921533807",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.1081904509.10219233921533807?Expires=2225428259&Signature=fc6P0Kq8YiZfh8goyk6tm9LbHFkVuQOziDvSVy3z6RcvGlXZp0pYLb1XkN6a0zg5nxTeo~kCls2RYNSHSl8uV1ZZ4r04mIIeN1cFzt8OMGZi1gmYRlfOgum6KFSglMW0ynim1iPx1ZfTiEpO8b7e1fEMbR5ZKP7~mWB4muXDAWQ~FdrDP7qwtIqQggMxjulP0Gu5r1ZClXSYs-gbHOLqoRsy0IMO631JY49jeSCEmVIXW1iDZkfRq00-bpS8Yy940A41G9~qvQfvOYEymypzckaa3RRKuMYO~n8zR07ydTBOiCkKYe3AzvLyAkDjJY6Dc2Snq-rLim9CbTrB9t4s0w__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/1081904509/videos/10219233921533807",
+          "duration": 181,
+          "published": "2020-07-05T15:58:46+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_1217994598540643_4040958282136176101_n.mp4?_nc_cat=110&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=derLBSmPyf0AX-O-r9f&_nc_ht=video-iad3-1.xx&oh=b01bcdc038b2362ba59c01b86077fe5a&oe=5F28A87E",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1081904509%2Fvideos%2F10219233921533807",
+          "engagement": {
+            "views": 113,
+            "likes": 33,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Abhishek Dutta",
+            "url": "https://www.facebook.com/1081904509"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "remi_ragnar.6837200669242330374",
-          "platform": "tt",
-          "published": "2020-06-11T21:10:35+00:00",
-          "video_id": "tt.remi_ragnar.6837200669242330374",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:27+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "114203292500715.1931689046962213",
+          "platform": "fb",
+          "video_id": "fb.114203292500715.1931689046962213",
+          "title": "Our Lady Queen of the Universe & St. Joseph on Facebook Watch",
+          "title_url": "https://www.facebook.com/114203292500715/videos/1931689046962213",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.114203292500715.1931689046962213?Expires=2225428259&Signature=Oq9mJe-g9Fnrz7spNBYjIkgZRmrUoDae5loTUx6PADMWSXriURn079M9BrMq4Ls8OycSYLYwqsnpvjeUD5oSCe8O9zdHy0QPm0L1IwCH1vju4BOcHdX5Rlak0eU7JHRoZeubAw8CX5VtLX-o27Q9X7Hbec5FX7xhvAJofm6UbWelUUWzHorjXON~GdYKsqP7GUPM5feLA0WIsoEQP-MnEzy5V0bVNVe6nlghpaEMUJU~imjAoEr~z3j~wWnvytQwIUvkjxzY5MMqfpyRW~9-gQGBP2R454ERxWm-SZlF4JxLk1BrVBWjRDO-IonY7QiGzjzqIl1RqvPtGxD1aYnsug__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/114203292500715/videos/1931689046962213",
+          "duration": null,
+          "published": "2020-07-05T15:04:19+00:00",
+          "video_status": null,
+          "live_status": "live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/hvideo-prn-atn/_nc_cat-102/v/rraUOLPM75JDsR0_652cD/live-dash/dash-abr3/658602838060755.mpd?_nc_rl=AfAqnkBUYTQ1PNM8&ms=m_CNP&oh=f20e8ba101c3608f3713cf1f1df8a15d&oe=5F035A3E",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F114203292500715%2Fvideos%2F1931689046962213",
+          "engagement": {
+            "views": 17,
+            "likes": 3,
+            "shares": 3
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 961,
+            "name": "Our Lady Queen of the Universe & St. Joseph",
+            "url": "https://www.facebook.com/114203292500715"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "juliec0rn.6842247820557159685",
-          "platform": "tt",
-          "published": "2020-06-25T11:36:07+00:00",
-          "video_id": "tt.juliec0rn.6842247820557159685",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:27+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "81582083490.258734675210715",
+          "platform": "fb",
+          "video_id": "fb.81582083490.258734675210715",
+          "title": "Cousin Avi - No Plan (Official Video)",
+          "title_url": "https://www.facebook.com/81582083490/videos/258734675210715",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.81582083490.258734675210715?Expires=2225428259&Signature=nNw0TW2HWkC~tMrO4bZMh63hx7MdDeILYMVEC~tngWofNSzwrjEAS~x7aDHshyFKCmnnFmaH-rpj244yUlng7VvErETUgoSgTLR21OjYwUzZeH1LKY3-hr9cTjQlbyLj09KBnQQluAZg8RFwrx5mlP1CigVxcXuJCpPVDdznYAFcPaiKz93zBi1ejcP68Y7rxJ57gGvrnMRJaeCaYXuFZjYn27j5aySBdxDJGpmISkXJ5KoVo1-sG8JtqHwQjBfm-H4WJXxm8ujiDhZH98lM9rRJTMogdcUBe3y5nr6dKiaQdQ0x0Mn8eA4KK0ZDxat-k2zAlb9BmFjgEH4h2APkMA__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/81582083490/videos/258734675210715",
+          "duration": 194,
+          "published": "2020-05-29T11:15:00+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_278536983270776_8044626641186712444_n.mp4?_nc_cat=102&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=4h_D7Bw1DdIAX8kMxGx&_nc_ht=video-iad3-1.xx&oh=f3553ce9331a362b276087667c12db95&oe=5F2615A6",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F133894830018144%2Fvideos%2F258734675210715",
+          "engagement": {
+            "views": 1005,
+            "likes": 27,
+            "shares": 26
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 4572,
+            "name": "Cousin Avi",
+            "url": "https://www.facebook.com/81582083490"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "jana.craemer.6839211157778140422",
-          "platform": "tt",
-          "published": "2020-06-17T07:12:21+00:00",
-          "video_id": "tt.jana.craemer.6839211157778140422",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:27+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100001023895416.3350324831678280",
+          "platform": "fb",
+          "video_id": "fb.100001023895416.3350324831678280",
+          "title": "Eddie",
+          "title_url": "https://www.facebook.com/100001023895416/videos/3350324831678280",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100001023895416.3350324831678280?Expires=2225428259&Signature=IOkinxQ8EiByAgKd1OTJ7aE-QEVvAyZBGXpbdOq31MnCLcibmBtM2cTswWjysG3s5Bc8Rlsw6RLs1FEo-pNNlpHxyj-tZM8urOYnZXNOvFlBTysqNmOGu85tQqhoggGePRXVksIsDZlBG6XhElw4DfqNWVvptlHUFVQrdH8PV5nPb4IbxWo8evooBQlRJOXouTTs0AEnQtbHLRE0WXbth694dY~bdc1aguD1i8X~wJbGPW0Uj1eyVkcRKMRS9wWCSFB45p-WmvCGABsWxmwx5fLlas~IKlX34kfw-YcfoJqaG8EehEZhlQ5HfbohcrNEwtef4Z3~-C28-86F6wdPUw__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100001023895416/videos/3350324831678280",
+          "duration": 43,
+          "published": "2020-07-03T00:38:47+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t42.9040-2/106084557_2780995242129507_4022859879607720793_n.mp4?_nc_cat=104&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=nBdTqTti_WgAX-8O9H1&_nc_ht=video-iad3-1.xx&oh=0ab80344b49767ce64170bc18ab7f70d&oe=5EFF425E",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100001023895416%2Fvideos%2F3350324831678280",
+          "engagement": {
+            "views": 109,
+            "likes": 12,
+            "shares": 2
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Eddie Movilla",
+            "url": "https://www.facebook.com/100001023895416"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "luviito01.6830070147936521477",
-          "platform": "tt",
-          "published": "2020-05-23T16:00:31+00:00",
-          "video_id": "tt.luviito01.6830070147936521477",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:27+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "26676834754.864263914067273",
+          "platform": "fb",
+          "video_id": "fb.26676834754.864263914067273",
+          "title": "Kristen Wiig & Avi Rothman Secretly Welcomed Twins",
+          "title_url": "https://www.facebook.com/26676834754/videos/864263914067273",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.26676834754.864263914067273?Expires=2225428259&Signature=cTThbM34HPUAFl69mRomPWaMqjn7dLMa29DetCstC~Z49sGbfS3adrKbMI~afE6MM3x3QIUY2JV7dhFI22-797WOndPnVMxNNOvTyqXdKYHLmONelOjch8qwdPYnwzzEI53lQnBTi56JwTA8cW0Ykimew0CZuZZwcJ9-zm3n4oGrJNcMjbEdn22o54Ijj5RW01TCP4w2Ld6KEZFiSR3lR4F1KtgmqhMzBJfWNtRek2x5PbXqEsFTbjcI91SAFsrJtl~b5Mdvz6~RuyWYqRufBLxHdXjG05wZV6ggp82FKPT7bBmBPGA68EtSimmpcnlkfxf4SL0fEUnEXpJhFiqERQ__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/26676834754/videos/864263914067273",
+          "duration": 73,
+          "published": "2020-06-18T03:30:00+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_144898720501936_5730447140872301586_n.mp4?_nc_cat=101&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=121YG48-k44AX9p857R&_nc_ht=video-iad3-1.xx&oh=6aefe1c20df836fbe476bd76530a8412&oe=5F25C61F",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F133894830018144%2Fvideos%2F864263914067273",
+          "engagement": {
+            "views": 2926,
+            "likes": 49,
+            "shares": 2
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 1079373,
+            "name": "Extra",
+            "url": "https://www.facebook.com/26676834754"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "anna_strigl.6831926996579192070",
-          "platform": "tt",
-          "published": "2020-05-28T16:06:01+00:00",
-          "video_id": "tt.anna_strigl.6831926996579192070",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:27+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100005752417340.1470559669812433",
+          "platform": "fb",
+          "video_id": "fb.100005752417340.1470559669812433",
+          "title": "Brian",
+          "title_url": "https://www.facebook.com/100005752417340/videos/1470559669812433",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100005752417340.1470559669812433?Expires=2225428259&Signature=OJZpEHq~7ZwjGBVzcSAf4lgwLQ6o4oqkW1FWIdcIwVxMb1Ty6kd5lr9eSRgzA4fQSFzI8Cp1qrYuErsQeAZp66yB2Y9fuEstV9~99JtCrfXhNfLbi7LB1h6BkdXKFyxejDRyesYDT7OpIPV5qZSmhn0ehqPQXHZYmZsYapLAM~8Dh3m209Cwa0kh1ABUQmtoHst4vw3hVQO-wFlRF3ISN6cUBq2qE5SvNPP9VJU3RbezoAymb0654RdTtj4QPjSK9VOjwkzi4l0YC-~9k2fN0Yk0Y6TRuBZhlyqGrFbYpNFmgjh688zzU9YdWQcKfMDKNtDIrmxAICq5X-1toPiX6g__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100005752417340/videos/1470559669812433",
+          "duration": 46,
+          "published": "2020-07-03T05:36:01+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.25447-2/10000000_2342623982709707_8095912509993538533_n.mp4?_nc_cat=109&vs=8f3ee7679634ec2d&_nc_vs=HBksFQAYJEdJQ1dtQURMNjFTbW1sSUlBT1ZUenFxSWRWcHdibWRqQUFBRhUAAsgBABUAGCRHRDNNVWdha052bkExMlVDQVAyUTlabjJ6bmxYYnY0R0FBQUYVAgLIAQBLAYgScHJvZ3Jlc3NpdmVfcmVjaXBlATEVACUAHAAAGAEwFqLz66vr3ZwFFQIoAkMzGAt2dHNfcHJldmlldxwXQEc7ZFocrAgYGGRhc2hfdjRfaHEyX2ZyYWdfMl92aWRlbxIAGBh2aWRlb3MudnRzLmNhbGxiYWNrLnByb2QZHBUAFYT5AgAoElZJREVPX1ZJRVdfUkVRVUVTVBsEiBVvZW1fdGFyZ2V0X2VuY29kZV90YWcGb2VwX2hkE29lbV9yZXF1ZXN0X3RpbWVfbXMNMTU5Mzc3NjI1NzYzNgxvZW1fY2ZnX3J1bGUHdW5tdXRlZBNvZW1fcm9pX3JlYWNoX2NvdW50AzEyMSUCAA%3D%3D&_nc_sid=a6057a&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=rprfo5MkffAAX8hi3iE&_nc_ht=video-iad3-1.xx&oh=4c7aa87d9dceef702f41e1fae50dbd34&oe=5F24FAE8&_nc_rid=413df37a3a09451",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100005752417340%2Fvideos%2F1470559669812433",
+          "engagement": {
+            "views": 18,
+            "likes": 5,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Brian King",
+            "url": "https://www.facebook.com/100005752417340"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "herranwalt.6848134011534036230",
-          "platform": "tt",
-          "published": "2020-07-11T08:17:32+00:00",
-          "video_id": "tt.herranwalt.6848134011534036230",
-          "operations_data": {
-            "detection_date": "2020-07-12T09:59:48+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100025710011594.622970591903269",
+          "platform": "fb",
+          "video_id": "fb.100025710011594.622970591903269",
+          "title": "Neranjan",
+          "title_url": "https://www.facebook.com/100025710011594/videos/622970591903269",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100025710011594.622970591903269?Expires=2225428259&Signature=kmoVVL2GLIv4cp05EQPP5arBp50n6Gd2bYxH2vj-PlizsrnLuzsDOhEI~WOBDBs9qPzkW51Sy~s55D0mKPDSDUMt9klWa9ySg3JqyGDpfmzJ-xaE4Mr8NHgAG8YEUdJg2wHcgdU2uoarlrmO8RBgtWo5wXuMf1PGzzCKFUqCwkW3Qrz9U4WNYJEdi5BVU-VavHeUoejRDowEBkh~2QSI5T1gAbPAzIjdSAzR~h-kcHU~rO8QGXU~tN9e-falp5Y7h5tU6tDQ7hC9I3Kw94aZzAYRROZrjynuIKn0R549frkp8dbE6EebziC8ouJ7OiwlVoZYVVIT0Wc6fu2xVMByoA__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100025710011594/videos/622970591903269",
+          "duration": 48,
+          "published": "2020-07-03T07:20:23+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/106124428_2628227807417392_7600491113502046004_n.mp4?_nc_cat=110&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=C-qt6z83WYkAX-Puw16&_nc_ht=video-iad3-1.xx&oh=b06d2fa0dc6824c151e4c6b878b738d1&oe=5F266898",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100025710011594%2Fvideos%2F622970591903269",
+          "engagement": {
+            "views": 67,
+            "likes": 10,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Neranjan Baraik",
+            "url": "https://www.facebook.com/100025710011594"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "axelwino.6830086162011393285",
-          "platform": "tt",
-          "published": "2020-05-23T17:02:39+00:00",
-          "video_id": "tt.axelwino.6830086162011393285",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:27+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "106548657787899.302042314181602",
+          "platform": "fb",
+          "video_id": "fb.106548657787899.302042314181602",
+          "title": "\\uae30\\ubd84 \\uc88b\\uc544\\uc9c0\\ub294 \\uc601\\uc0c1 - \\uc5ec_ \\ud788\\uc0ac\\uc2...",
+          "title_url": "https://www.facebook.com/106548657787899/videos/302042314181602",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.106548657787899.302042314181602?Expires=2225428259&Signature=EmjRenZrY0NtD-b3ghgN~pvN2tVH-OS6ktfXtPwweCk9gahn6o88TGFC4PUX86miJyuaaee-uKIBUPvRXu5jzKUZOtUbUjjco6B-wsIgl~x~XDG74PNMt-n54oZTeApCQkoUH5SpPUYU5juJF76WjNyYKf7r2NdcApvBmm7c4Bl6ISE~qaih7KKJi3p6Awin4~nuqrnZEilO79wTeNhsOmFSbJrmMGWReQ2EP-f8jlAlgJh-0KoTBdX3dFiatkwRymlnGvykwiMh62IyCx5jTQLtP9MqkRMKrpORGPoAqhRPXpgKfuf7lNZj5nfsA8xth2v1O2-5ku5RChcmXl2Jjg__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/106548657787899/videos/302042314181602",
+          "duration": 5,
+          "published": "2020-07-03T04:20:47+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t42.9040-2/105670241_302955280835757_3539148681806190402_n.mp4?_nc_cat=102&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=Oxus2kpQZxIAX_nx1Hv&_nc_ht=video-iad3-1.xx&oh=09cac3987e21a48ed53e1bacb58b9f78&oe=5EFF3E31",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F133894830018144%2Fvideos%2F302042314181602",
+          "engagement": {
+            "views": 0,
+            "likes": 0,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "이수진",
+            "url": "https://www.facebook.com/106548657787899"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "lucas.officiel06.6833333276598373638",
-          "platform": "tt",
-          "published": "2020-06-01T11:03:06+00:00",
-          "video_id": "tt.lucas.officiel06.6833333276598373638",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:27+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100024724851499.708421689991986",
+          "platform": "fb",
+          "video_id": "fb.100024724851499.708421689991986",
+          "title": "Pritha",
+          "title_url": "https://www.facebook.com/100024724851499/videos/708421689991986",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100024724851499.708421689991986?Expires=2225428259&Signature=BYIO7PgwVHEdZipXIcvd8wbuuE1D7BgYclS3TgtgitxI71bPEe2aarduP6j1HA0ViLo6BZv5GSxd~NM7uI5ME-CmdARqif4TteK6CcYbpu6X2Fk3iPtohSeol1vG0GGmJFomSNU6gQgzbdTSz3NYNP6X2jqAIwQPyaAcWA1M05pt6D9uC7XBhaSL3HX-4hiNUpMEqbrys11olvQ8KGokDRoo8bACEldZhGIBVywjuCqrMn0PdyUiTinWUx60halDhehSu6T51xGW0Cj4dNlEE5VyeCA9eOdkSnggYeharJ~sTimnZmLoLp94aAzirqRCnu3Un1j6ZYIHhYoDSieBQg__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100024724851499/videos/708421689991986",
+          "duration": 147,
+          "published": "2020-07-03T04:30:06+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_133897818365794_2011159272148218457_n.mp4?_nc_cat=100&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=n9HohKMALwEAX9A_Uio&_nc_ht=video-iad3-1.xx&oh=6f1f797e864a1bd1eca0613d710830f6&oe=5F23C0E9",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100024724851499%2Fvideos%2F708421689991986",
+          "engagement": {
+            "views": 113,
+            "likes": 24,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Pritha Bhattacharya",
+            "url": "https://www.facebook.com/100024724851499"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "smilyfritman.6841124582330584325",
-          "platform": "tt",
-          "published": "2020-06-22T10:57:24+00:00",
-          "video_id": "tt.smilyfritman.6841124582330584325",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:27+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "130199990327879.613631006028316",
+          "platform": "fb",
+          "video_id": "fb.130199990327879.613631006028316",
+          "title": "insidealansmind.avi",
+          "title_url": "https://www.facebook.com/130199990327879/videos/613631006028316",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.130199990327879.613631006028316?Expires=2225428259&Signature=j-FaUC~NIA0yoKPFjA06Z9xTjztsnNk37MEu57kKLeHWxUpYb1Rj8CgToXv30fauPvUbqBysCiriIz-4oryZNbaWyhXZ4rw3eVcrpaDblhcrko7~51wuUGxsFe7zYkbzP-FuCnHbEA8A~qw02jWm47gu6WEQ~aR1rV6dVTRuRsx6p4JRYLft9dRkEnAzbM4wdROC9qcCwJkHp7gGxH6x2J~9K8zA~xP8p3Ra-Xt2ZcYyT5FzF5PkIJA6hq8TaE4dsbz6pdyAwN4iYveeO1oQizU7DAWSqq7y0r28ZL1W2XRoSNd3Aoze2i4UPzIRglo76TNKWUKvKXYqNMgJBtL36A__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/130199990327879/videos/613631006028316",
+          "duration": 69,
+          "published": "2020-05-27T12:34:00+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/100532101_197091554719061_8962739416169452059_n.mp4?_nc_cat=106&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=NutTwqKo8FAAX-phH9a&_nc_ht=video-iad3-1.xx&oh=fcc3c639952e1b4feb056c16b826c91e&oe=5F262686",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F133894830018144%2Fvideos%2F613631006028316",
+          "engagement": {
+            "views": 49992,
+            "likes": 798,
+            "shares": 80
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 316229,
+            "name": "QI - Quite Interesting",
+            "url": "https://www.facebook.com/130199990327879"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "narcisapop3.6841210386809933062",
-          "platform": "tt",
-          "published": "2020-06-22T16:30:20+00:00",
-          "video_id": "tt.narcisapop3.6841210386809933062",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:27+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100001023895416.3350363931674370",
+          "platform": "fb",
+          "video_id": "fb.100001023895416.3350363931674370",
+          "title": "Eddie",
+          "title_url": "https://www.facebook.com/100001023895416/videos/3350363931674370",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100001023895416.3350363931674370?Expires=2225428259&Signature=PfuAi7s849Oiu4PhQEvX5FgXdjd-eE43vUiuz~JGcakf2vIR1sYZWq9yZXa7p0K7RoXm0NE6sHwv9zmo74g147eh-YA5XylxFEfRqkTk5paLQAeCL7SipDXFHtXDaT3opiA1f4SknKfqgPs~b6GfE56f84KHGDXtnOT~fO6Cb4SYlTj4OjeiG63vHg7nITWVQVaHTd4qaJ5XsT3cmKsOIll4H-UuUKhK2ziFLYUn8UcZC11wje2v4H0GTbpOU5BkiogLplFk~9qOQ09MMThiNe7IZJNYLDaQ1RZnaD~Q2LWM1ZnPPJbGpfQj38AWrosA5XYjxY3R0LTA1VfvxU0TGA__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100001023895416/videos/3350363931674370",
+          "duration": 30,
+          "published": "2020-07-03T00:59:52+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/106136608_298104421600305_5953129429072586630_n.mp4?_nc_cat=102&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=Pv18yeu9lTIAX9aczBY&_nc_ht=video-iad3-1.xx&oh=abe7e4e116a2a62684413e85ca0a7752&oe=5F23A231",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100001023895416%2Fvideos%2F3350363931674370",
+          "engagement": {
+            "views": 87,
+            "likes": 10,
+            "shares": 2
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Eddie Movilla",
+            "url": "https://www.facebook.com/100001023895416"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "haxens.6832976993483640069",
-          "platform": "tt",
-          "published": "2020-05-31T12:00:35+00:00",
-          "video_id": "tt.haxens.6832976993483640069",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:27+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100017879231918.635182500421052",
+          "platform": "fb",
+          "video_id": "fb.100017879231918.635182500421052",
+          "title": "Angie Esperanza",
+          "title_url": "https://www.facebook.com/100017879231918/videos/635182500421052",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100017879231918.635182500421052?Expires=2225428259&Signature=FjdH1kSy1-aFPW7iihnoykQgBiigE5Gx0t1IleXPgVOiTWDyFwyXmYAZfKxMmLoQsn4aOvePkhMeFLwKljXr6h3Wu6NVCmnH67YFABSrM0XsVcHs9TmtO156rUOTRN-aYJ2pNJmyGvBnVp7mc75-wJ-2VFi2s2W-K7GJLC3bwqfZ9S49h2RF~wVe~rvOUzAbXyYc-ZgRVjB7o5Q--~OXipvUwSw0b3etNv9hcUSpcvlx3Rkl31y-yt1wH164fCkKnF3qGpMqH8BLX3TH4j8F0GuVwlY3gWQIuKeo-wnVxVNsseJyanh8DvEi156hM4B4xTydreONM8ORMHiKhiqGIA__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100017879231918/videos/635182500421052",
+          "duration": 46,
+          "published": "2020-07-03T02:26:56+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t42.9040-2/106241335_621142115502452_5864630770118317106_n.mp4?_nc_cat=105&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=nwSewh1-0xcAX-hWTJC&_nc_ht=video-iad3-1.xx&oh=e4a939e696c0835103c2580527c41829&oe=5EFF3D99",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100017879231918%2Fvideos%2F635182500421052",
+          "engagement": {
+            "views": 1,
+            "likes": 1,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Angie Esperanza Livias Justo",
+            "url": "https://www.facebook.com/100017879231918"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "_camille.loic_.6840453966170508550",
-          "platform": "tt",
-          "published": "2020-06-20T15:35:02+00:00",
-          "video_id": "tt._camille.loic_.6840453966170508550",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:28+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "424961994762540.890599718076254",
+          "platform": "fb",
+          "video_id": "fb.424961994762540.890599718076254",
+          "title": "T\\u1d1c\\u1d0d \\u1d00\\u0262\\u1d00\\u0280 \\ua731\\u1d00\\u1d0d\\u0274\\u1d07 \\u1d00\\...",
+          "title_url": "https://www.facebook.com/424961994762540/videos/890599718076254",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.424961994762540.890599718076254?Expires=2225428259&Signature=qfZ8d9Y9L8rYTow-SpwfrtBNp5F3ixjm-Mum6balCrUZacbRrM58Jg~FaFhe9gcnB3CF5j~Zcm-wee5YYNmQEnT~VTMyHfcSIqHGY5z3jwlNUE-Y869ZqrbOBveEawhplr0zKwcuePr9A9NMsyk-Wn2q37ChsbxZlev51iG74E~mOicoVC~j-oqQcyvqe4FdXDd4RL54Rw0iSPOdJaOyfLLPDmYtKtVU-ChHvkDDP~o481VEPmAmhAjO~l~~L63suBcRPIHahYTc2vAAPS114bnp9lG-KIquOj4K8QSMMf2ZEUEGnJJo-0f~hWumE7BCpweEdALqcZ2a70gWCFz1Eg__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/424961994762540/videos/890599718076254",
+          "duration": 40,
+          "published": "2020-05-23T20:10:36+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/100673824_957043734737721_3874944595391541178_n.mp4?_nc_cat=110&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=FoeVa5OhlYwAX-ox6kO&_nc_ht=video-iad3-1.xx&oh=b9eac4d0cff9e0eb4224dd17046b0f2f&oe=5F24E853",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F133894830018144%2Fvideos%2F890599718076254",
+          "engagement": {
+            "views": 605,
+            "likes": 1,
+            "shares": 22
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Ｈｅａｒｔｂｅａｔヅ",
+            "url": "https://www.facebook.com/424961994762540"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "houdini.972.6833051132852571398",
-          "platform": "tt",
-          "published": "2020-05-31T16:48:16+00:00",
-          "video_id": "tt.houdini.972.6833051132852571398",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:27+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100000132428667.3657702627577449",
+          "platform": "fb",
+          "video_id": "fb.100000132428667.3657702627577449",
+          "title": "Harvey",
+          "title_url": "https://www.facebook.com/100000132428667/videos/3657702627577449",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100000132428667.3657702627577449?Expires=2225428259&Signature=VbFDH1JZ7Zr~PuJE0Gcj01OUqso69cjKcAxEGgs~MfTl2q6ziZcyzGUE1EZuQRAtBp6qeESwhc~2N1dEzCTPvBoilm2hVnJXXZZ-TVwUfhgWmbmTV6itpzJP3c9DuwG~39~Z~pRMxtwOBQM25FKGyV03VWqTzTq-XJeSDk0nYWZc-iAyJEUU5u2SEc0r1lUm03NnbCajJxxeOevQE0jUHGSfcCu~rzR1gluZkz5kuy1bFOC~ZcmmybgSaqk9ucncQVjnibwXpOLgZ~Oq~eEli8lEi5PEC6Jc3a95AJHvJ17F-ChDv-2riHtF3ALI25R5MkglUyTlCpqQVoBCZc6nww__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100000132428667/videos/3657702627577449",
+          "duration": 26,
+          "published": "2020-07-03T09:59:32+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/106237277_610129969610847_8500540672322590977_n.mp4?_nc_cat=105&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=C0zmvAmBhdcAX98jIbv&_nc_ht=video-iad3-1.xx&oh=58b7504ee05d1770f811fc73b6aaa842&oe=5F246995",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100000132428667%2Fvideos%2F3657702627577449",
+          "engagement": {
+            "views": 203,
+            "likes": 17,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Harvey Inductivo",
+            "url": "https://www.facebook.com/100000132428667"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "twoflametony.6848052279698885893",
-          "platform": "tt",
-          "published": "2020-07-11T03:00:23+00:00",
-          "video_id": "tt.twoflametony.6848052279698885893",
-          "operations_data": {
-            "detection_date": "2020-07-12T09:59:48+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "389947688423365.296299121413797",
+          "platform": "fb",
+          "video_id": "fb.389947688423365.296299121413797",
+          "title": "#RIPSarojKhan",
+          "title_url": "https://www.facebook.com/389947688423365/videos/296299121413797",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.389947688423365.296299121413797?Expires=2225428259&Signature=KqjoAo92eXuModW9WZFi8~Sp9jhV7RZTaX-GZeQu98wg4JNjpVxEBPDBV97vcRm37EICZ3ItzauNz3~S6A-mQ7FTlnH7syX0uUN1ezbO6fz2Oine8syq1QfX-XMDtSkWBpvVyjo8cUjB4ee7qxU6O7rjM3CWKi~ezIzh8dm6jwgNmCygU~TmsBpOrtwbqRH5fhuQViWEvwQ4OTbHbzvgCSsG00Y8~qW420yxT-R6pclHPcEuRSLT129OZ4593iJooq8mkwZi7NiW7GMqnAN8tN-Xsx-H2OoHiSYv7GdLZzCCkNO4Jw5zGxpIOKMxQ8VCWBxRVVnj1OaGEWo-crF0MA__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/389947688423365/videos/296299121413797",
+          "duration": 15,
+          "published": "2020-07-03T10:02:59+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/106243822_115289503573644_4051340581287800999_n.mp4?_nc_cat=101&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=ExDk59wmRlgAX_ng-wS&_nc_ht=video-iad3-1.xx&oh=238662389dbba7b49cc606cc7ff01402&oe=5F24CB6F",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F133894830018144%2Fvideos%2F296299121413797",
+          "engagement": {
+            "views": 39,
+            "likes": 12,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 2586,
+            "name": "Avi Vinay Page",
+            "url": "https://www.facebook.com/389947688423365"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "jordanyumpe.6832404603758300422",
-          "platform": "tt",
-          "published": "2020-05-29T22:59:23+00:00",
-          "video_id": "tt.jordanyumpe.6832404603758300422",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:28+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100008514093239.2344624552497992",
+          "platform": "fb",
+          "video_id": "fb.100008514093239.2344624552497992",
+          "title": "DrAnil Kumar",
+          "title_url": "https://www.facebook.com/100008514093239/videos/2344624552497992",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100008514093239.2344624552497992?Expires=2225428259&Signature=nvzNWm~vrVglAd0oJGCO4mRlBPrvqo5rmPPGJIbfVsMJFxZ5Mhxm32AfmVcEWgHtgDXUXbXhrHP0nxpk6cqog6Le83sQq45ETn80viMlX8TM4~~i2GqZeemqmHz8VGo-7-zPS8K~qVc3SpvIPOumTtlqir~C3iijiaO6jm6q3OZR2mh07LXW38RhaxMt9X~20AahtVHW6tDbAqGMbRmlnwTsQqkUg-~mmF-K6H92n28IBpFVxEnUdFy8UB9Tt8U6CvCO53xne3sYvwcmZjZu62x5TbtZ-CI5H5dw1geJMFB0-Rxb5H5Cj~Mc-06Si9kw3-o0XE3OAuFrKsPheF~O0g__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100008514093239/videos/2344624552497992",
+          "duration": 37,
+          "published": "2020-07-03T09:26:25+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t42.9040-2/106474663_2404754636490408_1373430854244579605_n.mp4?_nc_cat=100&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=nD7fPYVlpL0AX-T2XaL&_nc_ht=video-iad3-1.xx&oh=cb569eec7e9b726c20659fb1a273b13f&oe=5EFF3900",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100008514093239%2Fvideos%2F2344624552497992",
+          "engagement": {
+            "views": 66,
+            "likes": 11,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "DrAnil Kumar Jha",
+            "url": "https://www.facebook.com/100008514093239"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "meryembenoua.6833066450161241350",
-          "platform": "tt",
-          "published": "2020-05-31T17:47:40+00:00",
-          "video_id": "tt.meryembenoua.6833066450161241350",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:28+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "516774101685674.270179480883121",
+          "platform": "fb",
+          "video_id": "fb.516774101685674.270179480883121",
+          "title": "Avi & Duke are here and what a great weekend it will be!",
+          "title_url": "https://www.facebook.com/516774101685674/videos/270179480883121",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.516774101685674.270179480883121?Expires=2225428259&Signature=DparoeMKDPRYj324sekAVpFAIfHJVA2eSD529o0Uq0Jtw8FVx3P2tzNTny9u6UneF3qce9BWHpsBTxDa8iGjP88i84ybCX8dfUwMOwsS9C0Hh21ijvdtm1uQ1nqcsiuECnWGCpeCw~ZuWQhk70nNfwqmAkWzZdN2CZXLWMSzTj0PGdLCaegupQXnHz02fYzkCYoWaMQTfyRME9DnwrVhfhaQicZmfeupArB1AkYPg37pmFv13822hBPS9M5gIzfS5y0t1KPPgMy4q061UzuNr2TFQTq4wQ1u-XIS9kxsXsMH~aOyI~Ufokqv-GqLiiZEaRfPhBauuWe0nt3SjxXBcw__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/516774101685674/videos/270179480883121",
+          "duration": 485,
+          "published": "2020-06-25T23:23:25+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_280777926500071_5529057606850121321_n.mp4?_nc_cat=102&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=Arp4NejHcD8AX94khiP&_nc_ht=video-iad3-1.xx&oh=f3a0839023275ea85058668133674652&oe=5F265248",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F133894830018144%2Fvideos%2F270179480883121",
+          "engagement": {
+            "views": 22957,
+            "likes": 1035,
+            "shares": 93
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 305608,
+            "name": "Gem Shopping Network",
+            "url": "https://www.facebook.com/516774101685674"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "vipul_fojikanudo4509gj13.6841210179418164482",
-          "platform": "tt",
-          "published": "2020-06-22T16:29:33+00:00",
-          "video_id": "tt.vipul_fojikanudo4509gj13.6841210179418164482",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:28+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "298094370360388.4070390726364745",
+          "platform": "fb",
+          "video_id": "fb.298094370360388.4070390726364745",
+          "title": "\\ud835\\udc12\\ud835\\udc04\\ud835\\udc0b\\ud835\\udc0b\\ud835\\udc08\\ud835\\udc0d\\ud83...",
+          "title_url": "https://www.facebook.com/298094370360388/videos/4070390726364745",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.298094370360388.4070390726364745?Expires=2225428259&Signature=Q8pIm9il53wv~cgrzjOJN3XPp9-iazAKzLqnbQPJ0tMUF83bhnPwHOEcAHSxaepKT0ERdrXOXZEoY0csmYgGwn5ZCo2DIwuY1Nk5DIpOc4pZ2UnaiGsHxeRRuHy7SqCW06tD4iJaCEp0gg8~~U2qun4DNauJqSnTvmXW~WAfShmwBKSupF6k4ARqGL9r3jYCUnp3YrlYr4xFqRAE3mZ7v6cuX41fXWdFWUnS2OIwNt8pZ0p9FR9e-pNVYKKn8SyRczPvVCnMyL0BntQP~qh~UhX~OOvHWW7C3Psquh7KD1CPpiIUghAUzoUZcXJhdHQQP2mo449zDxuD8kqTbPqMsQ__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/298094370360388/videos/4070390726364745",
+          "duration": 30,
+          "published": "2020-07-03T02:26:59+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/106483368_604581310472481_2518292202978337213_n.mp4?_nc_cat=104&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=iX2bA_XQkAEAX-6c5WT&_nc_ht=video-iad3-1.xx&oh=d8fb5b97f80b17d2b6b48517ad0ec6af&oe=5F26934F",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F133894830018144%2Fvideos%2F4070390726364745",
+          "engagement": {
+            "views": 20,
+            "likes": 0,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 5393,
+            "name": "Ray White Marsden",
+            "url": "https://www.facebook.com/298094370360388"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "coach_pedro.6846922297383718149",
-          "platform": "tt",
-          "published": "2020-07-08T01:55:31+00:00",
-          "video_id": "tt.coach_pedro.6846922297383718149",
-          "operations_data": {
-            "detection_date": "2020-07-12T09:59:48+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100015142121189.297342831650445",
+          "platform": "fb",
+          "video_id": "fb.100015142121189.297342831650445",
+          "title": "Mukesh Kumar Sah",
+          "title_url": "https://www.facebook.com/100015142121189/videos/297342831650445",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100015142121189.297342831650445?Expires=2225428259&Signature=T16MZpn201PWRdt0nIEsZbWGV3lLv0Nr-gtkrO97w-J143EsyLigQDkS1-4WpOoW0kQOG7P1pZK0x-2GDL8sYZ8nCJ3CfLOrPS19aR8lAoed0fkd~xGffBx1L6ifgharW7FY329fgwcoKUNN1-S46pjNA8GMSqC4pYdlnu~akkLVNSuJm5cQv6IpDxo2DueSVOHv4IlDC-VxX7IvX1Ucgt6axNLF~O9Jb410x8iTveMccKuWCO8tTg~7q4HhlXihZHBBXXAiywfvlIYBhZgg4iAffLCH2f~q4oPAJWhcV3fQzDVtEPQ-Ijwolg6IRkAxNsh-z9QKSkrT7hA5UHPW~A__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100015142121189/videos/297342831650445",
+          "duration": 15,
+          "published": "2020-07-03T00:58:35+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t42.14539-2/106063280_199979814687337_4198346773470681607_n.mp4?_nc_cat=108&vs=1196b0af469ff45e&_nc_vs=HBksFQAYJEdMQmxVZ1pwRXRGdDRiVUFBQWVhb0l3bGhrTTZic3M0QUFBRhUAAsgBABUAGCRHTUdhWGdaQnFzN3Bxd2NFQUlUWklIZl94cWNyYnNzNEFBQUYVAgLIAQBLAYgScHJvZ3Jlc3NpdmVfcmVjaXBlATEVACUAHAAAGAEwFoCe4JCqxoYBFQIoAkMzGAt2dHNfcHJldmlldxwXQC8AAAAAAAAYHWRhc2hfZ29vZHdpbGxfaGRfZnJhZ18yX3ZpZGVvEgAYGHZpZGVvcy52dHMuY2FsbGJhY2sucHJvZBkcFQAVvJkCACgSVklERU9fVklFV19SRVFVRVNUGweIFW9lbV90YXJnZXRfZW5jb2RlX3RhZxRvZXBfaGRfZnJpZW5kdmVyc2FyeRNvZW1fcmVxdWVzdF90aW1lX21zDTE1OTM3NzYxMzMzMTUMb2VtX2NmZ19ydWxlIGdvb2R3aWxsX3ZpZXdfcnVsZV9mcmllbmR2ZXJzYXJ5E29lbV9yb2lfcmVhY2hfY291bnQDMTAzDG9lbV92aWRlb19pZA8yOTczNDI4MzE2NTA0NDUSb2VtX3ZpZGVvX2Fzc2V0X2lkDzI5NTg3NzM2ODQ2MzY1OBVvZW1fdmlkZW9fcmVzb3VyY2VfaWQPMjk1ODc3MzYxNzk2OTkyJQgA&_nc_sid=a6057a&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZF9mcmllbmR2ZXJzYXJ5In0%3D&_nc_ohc=fEwLY9lzL44AX8Nt12c&_nc_ht=video-iad3-1.xx&oh=b630ea9fe4db106c0d688b1c32ccd4e4&oe=5EFF3485&_nc_rid=f569ab813689426",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100015142121189%2Fvideos%2F297342831650445",
+          "engagement": {
+            "views": 19,
+            "likes": 3,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Mukesh Kumar Sah",
+            "url": "https://www.facebook.com/100015142121189"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "welcome518.6837059978575072518",
-          "platform": "tt",
-          "published": "2020-06-11T12:04:39+00:00",
-          "video_id": "tt.welcome518.6837059978575072518",
-          "operations_data": {
-            "detection_date": "2020-07-12T09:59:48+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100041214280508.304831747567299",
+          "platform": "fb",
+          "video_id": "fb.100041214280508.304831747567299",
+          "title": "Ma Germelina",
+          "title_url": "https://www.facebook.com/100041214280508/videos/304831747567299",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100041214280508.304831747567299?Expires=2225428259&Signature=aFUkwBgFuTVMmUxOOGP4-JbhXVMZD3ISuJO4YwRdaD~U1Zp9qluvOXOX9myt7tNflIWrDrhustKJlObEQ4niF0uLT-TfI224AZvbC7CgUd59X~SFqkM5dFkv9q5dPb-PFYWAiCUqnALMyDXVB1hB5DP~UNDB-NaJrcuWJE~A2VIsHRYja8G3MycpM2N~8oGr2ZzDWdQBIdjrROf3u7jUBTSnxNeAHlIy9ifFhpQ6CzSKVFkryc3KDBkMkvIJaJEXDWCIA8m0B2xs6Ex8Mi7-pknzfeLnsf2psj5cWw2sMwy7RTRr3zb7oJ8O5n~ApuommeBRCiFb6oWH7WnQMiVslg__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100041214280508/videos/304831747567299",
+          "duration": 14,
+          "published": "2020-07-03T09:16:25+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/105496649_1522871384542958_8299564879322903750_n.mp4?_nc_cat=109&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=AJ-XZvF516oAX_qKdEs&_nc_ht=video-iad3-1.xx&oh=419e885feb6214021eda371afea6c98d&oe=5F2620E7",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100041214280508%2Fvideos%2F304831747567299",
+          "engagement": {
+            "views": 42,
+            "likes": 16,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Ma Germelina Soledad",
+            "url": "https://www.facebook.com/100041214280508"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "besttrendvideos.6829358322781654277",
-          "platform": "tt",
-          "published": "2020-05-21T17:58:15+00:00",
-          "video_id": "tt.besttrendvideos.6829358322781654277",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:28+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "133894830018144.3435562936477961",
+          "platform": "fb",
+          "video_id": "fb.133894830018144.3435562936477961",
+          "title": "",
+          "title_url": "https://www.facebook.com/133894830018144/videos/3435562936477961",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.133894830018144.3435562936477961?Expires=2225428259&Signature=DuKMYg2YeM56P-nQHt~vWggsolP9MhvZSzknxT8h21ENqSGCnfb436demvjOMKqFbv47nQmEgQ9LL9w6Gi8VvmtDjymeCaHxZxXCLQQZkK9OmuKLKYfmJDcMF1wKwqDFPb-yzVKItIenEJGsCm-0V8BnGWPDq-Lh9LTotYp4FNs~iCuC6E6pZzMgqeQM0loDknKd0x4NcFKKX5R9ScpPmYfoVZ1VsFnvCSFkdS1EX0M9Sxd2~D9chlHg8cx6RHxl41WOExNk6NQtLN1nqh80ZYjZErPbXOpEgqlqqOyVTUIhy8OENp2ssgiHU-SGlRq0mBZhApb3v9DNSxenZpk9qQ__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/133894830018144/videos/3435562936477961",
+          "duration": null,
+          "published": null,
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": null,
+          "embed_code": null,
+          "engagement": {
+            "views": null,
+            "likes": null,
+            "shares": null
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": null,
+            "url": null
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "alexandretete.6834915055490911494",
-          "platform": "tt",
-          "published": "2020-06-05T17:21:13+00:00",
-          "video_id": "tt.alexandretete.6834915055490911494",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:28+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "199912003485656.279924763362644",
+          "platform": "fb",
+          "video_id": "fb.199912003485656.279924763362644",
+          "title": "\\u0c21\\u0c3e\\u0c2c\\u0c3e \\u0c15\\u0c25\\u0c32\\u0c41! A Telugu Podcast by Avi | ...",
+          "title_url": "https://www.facebook.com/199912003485656/videos/279924763362644",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.199912003485656.279924763362644?Expires=2225428259&Signature=TG4thrHy9-Z7LJnM72ce-eNUm2ImbBQnvP6NlYezQjU9DahyHYlNdYBFaRsNmZKnz-L-JEhVu~bQnoNMidqCDEFfgnGMzku0nIdeeTewGKk8MuN9-tjIFUcA5uxPqnlGb1zfrcblpvo6cvYWBI0tYymvQMnZ3ktfVIj9VhctRBL1tpA57NITxeMg~VoH1l26uYPo5P6sd8IcXTwnf5B2PKM2P42Jgtrp6Gjhqcg2nbv1RbXdzwhbLyTS4UeCP55k3XTYVWsDsSXuaxL6mlepA3~SLejtBF7PT5iDLGIw3cHBmh1~VSdkyaK13vrtplrymiHXEGIfU8LqQly2I6Vb6w__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/199912003485656/videos/279924763362644",
+          "duration": 377,
+          "published": "2020-06-14T17:13:43+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_599838793981737_4402470273900210579_n.mp4?_nc_cat=109&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=XrokwmATs4EAX9B2xV0&_nc_ht=video-iad3-1.xx&oh=3b5741cfa6fa1b89bedb0a01dc4f4a9c&oe=5F24ADB3",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F133894830018144%2Fvideos%2F279924763362644",
+          "engagement": {
+            "views": 13052,
+            "likes": 333,
+            "shares": 64
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 1145152,
+            "name": "ChaiBisket",
+            "url": "https://www.facebook.com/199912003485656"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "huskymuscles.6829811245969853701",
-          "platform": "tt",
-          "published": "2020-05-22T23:15:51+00:00",
-          "video_id": "tt.huskymuscles.6829811245969853701",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:28+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "179776285485811.965694197182262",
+          "platform": "fb",
+          "video_id": "fb.179776285485811.965694197182262",
+          "title": "Erev Shavuos Message from Rav Avi Pollak, Program Director",
+          "title_url": "https://www.facebook.com/179776285485811/videos/965694197182262",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.179776285485811.965694197182262?Expires=2225428259&Signature=XV3rxwCMVEMrh-eUIK2TsiU5RQSLV9~WbhCpfmQRJmH9Y6hhDM5ZwUcUSbjkc4ssOzQY383-rk-5niGU1i9LngwXKlHGaN-xqDzRTbmrlF8ljkmd2Yt0U4FLlIQ1OOFwPdFkuf9vIRQdEdpjPTCHk4vqus9ZkHo-Zq5tWQ5twFRVmTDYWP-lqCFG3XpgenvZZXwTzu2NGJOeqlUTdEo3Fdk~Yn8i9w0nttPM0aZvP5nooUY5X60e-hgmozjH-Gr7wSeD-9uXvNecKK9k~kNCZdFWOi~CbT5fkOyDlEs6~5XhrB0LRukgNpyeC-2bYToj2-rLoM35m~9hXEQm5qTOrg__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/179776285485811/videos/965694197182262",
+          "duration": 172,
+          "published": "2020-05-28T12:30:04+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_112437436973923_1965151510945468623_n.mp4?_nc_cat=101&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=xI8ovRbkmuUAX-g_Ozb&_nc_ht=video-iad3-1.xx&oh=c65387a807d79274b6cfcdf52d31eaa5&oe=5F24AEC1",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F133894830018144%2Fvideos%2F965694197182262",
+          "engagement": {
+            "views": 626,
+            "likes": 30,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 3972,
+            "name": "Camp HASC",
+            "url": "https://www.facebook.com/179776285485811"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "imbattibile.off.6843500033392823557",
-          "platform": "tt",
-          "published": "2020-06-28T20:35:20+00:00",
-          "video_id": "tt.imbattibile.off.6843500033392823557",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:28+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100005537834060.377033176591100",
+          "platform": "fb",
+          "video_id": "fb.100005537834060.377033176591100",
+          "title": "Arjun Singhaniya",
+          "title_url": "https://www.facebook.com/100005537834060/videos/377033176591100",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100005537834060.377033176591100?Expires=2225428259&Signature=Tj87ZLbhtV57SClUG3A9gv8-MSS948Vzc71BM2MVUSeh1sg7qmkWt4vgD5BtGLc92I-NMPVQdqdHTPpX9~13Ql605dBzHq5Kc4StCK5pIUDr5BaXHz87ZSDE6dtT~8juf3lIES0iPkMyZS~umV0kIp9FQNolEoS3do61F~ktnuOfu2ppxNsYn3F2GGvO4MApTtyCVwlnu0kx720ekIKXVc04R-IYGZs7hZ-KMf7~O4qmt0qyJ9xroAuC2wmC6N6PMXdeKi3q0~hKSjNaYgldkbbPFHQ6EU98xZB6r1QAgJZakxTLWZpwZ6Sp0gzcBEX1KyP2mDsU6aCbwNP~nUT7Og__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100005537834060/videos/377033176591100",
+          "duration": 25,
+          "published": "2020-07-03T09:03:37+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t66.18014-2/42625174_158589605746262_7419040026565218171_n.mp4?_nc_cat=105&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZF9mcmllbmR2ZXJzYXJ5In0%3D&_nc_ohc=8olzY8-IBRMAX_q917S&_nc_ht=video-iad3-1.xx&oh=435e1ef182b1cdf2dfcedbbef36eb95f&oe=5F25E164",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100005537834060%2Fvideos%2F377033176591100",
+          "engagement": {
+            "views": 1,
+            "likes": 0,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Arjun Singhaniya",
+            "url": "https://www.facebook.com/100005537834060"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "ayoubpotter.6839737625297833222",
-          "platform": "tt",
-          "published": "2020-06-18T17:15:16+00:00",
-          "video_id": "tt.ayoubpotter.6839737625297833222",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:28+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "199912003485656.256601088776069",
+          "platform": "fb",
+          "video_id": "fb.199912003485656.256601088776069",
+          "title": "\\u0c21\\u0c3e\\u0c2c\\u0c3e \\u0c15\\u0c25\\u0c32\\u0c41! A Telugu Podcast by Avi | ...",
+          "title_url": "https://www.facebook.com/199912003485656/videos/256601088776069",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.199912003485656.256601088776069?Expires=2225428259&Signature=V9Jo-quhXhCQV-NNtAVPtTwilI2qWO~qC8f1neQ6N7uEwd55cZIq4emOlrnfdyEWw1vX7Q89qulG1dsxY1Nk0s~jhbp7wwyJf-hLtsvajJNkudE2SBk8aKbg51zuTcV0Y-FnbY8HWfa39y7o7A9ZLjS7VqpbR96hI4LeI9A681HSk1dUvuPtzBgxZJtll1MBzHQ4rq9yjIbW~NRsFuijIOJ2vE00CisUF~Ei~C4~oenubJEkMrjoaOTFFrWXjqnSWBnNhlJTt9~lPSK1vsYIsc5A6v2GwuNEMLuI7q4GvOh02KqCrufWXJ5hUZuoQz2UrBXrTdwfDsVZrB1u7niuoA__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/199912003485656/videos/256601088776069",
+          "duration": 371,
+          "published": "2020-05-30T15:29:07+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_580357526217058_3312134822104737969_n.mp4?_nc_cat=102&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=ovJDKR_0OPcAX9-X1lu&_nc_ht=video-iad3-1.xx&oh=612400d9bc67704a827453b25580dc34&oe=5F25E72E",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F133894830018144%2Fvideos%2F256601088776069",
+          "engagement": {
+            "views": 18017,
+            "likes": 273,
+            "shares": 54
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 1145152,
+            "name": "ChaiBisket",
+            "url": "https://www.facebook.com/199912003485656"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "gru_ninja.6835324794880150790",
-          "platform": "tt",
-          "published": "2020-06-06T19:51:12+00:00",
-          "video_id": "tt.gru_ninja.6835324794880150790",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:28+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100037632453715.272091787388568",
+          "platform": "fb",
+          "video_id": "fb.100037632453715.272091787388568",
+          "title": "Pratyush Kumar",
+          "title_url": "https://www.facebook.com/100037632453715/videos/272091787388568",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100037632453715.272091787388568?Expires=2225428259&Signature=ENbEcHw9-XD-AzhKIKTNpidqPM2yDriLEC3EInXJEBJ7qFG-8soxRS4EM5Hl4gJSQV~G0GBSARJVNfNWscNAxsU1eNJPXZBqyxG99-QLd-a93HFI4FFjjXSNwpQb5Jn4HcXRZLUFGylWo4wOTxpfP-OKuSeeDUGajMPOzmOcq273cPG7mUiGl7eXnLpKM1N7BL8pXPQf01tm299bK0MJcRrDJlTIs2BDFmIp9f6sIPvbMvd~uoWvRTqFZmEsnLjsGUotnVPC-QuCXIQMNLVB6ZRkdI1IZM8EHNpuqh6~ILS8neBr~KrG9P2ZZ3JwNVZQsvf7BzI~XFXB4hh5nXtkyg__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100037632453715/videos/272091787388568",
+          "duration": 58,
+          "published": "2020-07-03T06:07:21+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t42.9040-2/106411512_585696002148309_5886475209871063373_n.mp4?_nc_cat=108&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=hyXNE-1-piEAX_b0dML&_nc_ht=video-iad3-1.xx&oh=c973cc3b275f1acaba537b8b1c659a46&oe=5EFF392A",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100037632453715%2Fvideos%2F272091787388568",
+          "engagement": {
+            "views": 24,
+            "likes": 58,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Pratyush Kumar Behera",
+            "url": "https://www.facebook.com/100037632453715"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "saucy_curlifriess.6832510789623024901",
-          "platform": "tt",
-          "published": "2020-05-30T05:51:27+00:00",
-          "video_id": "tt.saucy_curlifriess.6832510789623024901",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:25+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "133894830018144.2800377936750734",
+          "platform": "fb",
+          "video_id": "fb.133894830018144.2800377936750734",
+          "title": "",
+          "title_url": "https://www.facebook.com/133894830018144/videos/2800377936750734",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.133894830018144.2800377936750734?Expires=2225428259&Signature=Hlq0ly6jmMhQEXZ0z~8nOwO1tIuJqArnEi9W~0grFmvOMky3BrztFfKB~cDz9qKeJU~gIo-tT3TCHGKv07tc4xM7~xxwrfqUK95xVx3qWjRaFLGGn3rvV12QeIx2b38SPFL2sotcwQ3k-Hjpmf8377lqhuf6~BYAOHCC6CWednTPLrtWvAB2pzKAfohQTsDEX-3BZTIgXngZwGoqPuQeYOK~elUn-H~Tr6Vw5k9c7K2fDCf1KKA1WOuWq0Mb9cU1pLGW-INP864Q7k~1uGNu5Lc9ifYc3mkixTEQp36QyHtm~CY-F8nACWN8rWUdiujafMP6DF3smv9eSwPSsZRZyA__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/133894830018144/videos/2800377936750734",
+          "duration": null,
+          "published": null,
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": null,
+          "embed_code": null,
+          "engagement": {
+            "views": null,
+            "likes": null,
+            "shares": null
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": null,
+            "url": null
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "rubykimmy1.6836554438128274694",
-          "platform": "tt",
-          "published": "2020-06-10T03:22:54+00:00",
-          "video_id": "tt.rubykimmy1.6836554438128274694",
-          "operations_data": {
-            "detection_date": "2020-07-12T09:59:47+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100009704858146.1166672800332871",
+          "platform": "fb",
+          "video_id": "fb.100009704858146.1166672800332871",
+          "title": "Atokali",
+          "title_url": "https://www.facebook.com/100009704858146/videos/1166672800332871",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100009704858146.1166672800332871?Expires=2225428259&Signature=RsHOIg~E0ZFXkV8gWV1tumKBBGhEvLmuRWyHvbVcNCu2Nn6qcwMHAHQquaATziGR6kpn1aCJfOmb2KR4PPI-lVD0SOnQ4HWQfOZU2XAOfrIuF7BA0Vgl1shPjzH7ItzlSm7Z~Fm981SGrCD0ggb2DnPZO3j8b~J~Nu4IzJhk4NEeJ6eanPf4kjIVAcj6ytQwwvblM0u55aLDNJSGXHCQ9ZgM4526OaMnZ04aDtWoezb4GgTFCQEPqfaNsmvOuUA1UbZgx4kvjmQv~YifZBnh9GguvojZbOgCYerJGXpb2Grzm4LgfJFtj-HUohBhoL-nhGpRKQb6wYiS~hv7~Hr85g__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100009704858146/videos/1166672800332871",
+          "duration": 6,
+          "published": "2020-07-03T10:25:47+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t42.9040-2/106367638_304115227382579_6157152740989991946_n.mp4?_nc_cat=105&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=Gh4HbLjGSEoAX-x8KNj&_nc_ht=video-iad3-1.xx&oh=8ad7b6bd6bc7bdc2ffb748edd64d41c7&oe=5EFF4014",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100009704858146%2Fvideos%2F1166672800332871",
+          "engagement": {
+            "views": 20,
+            "likes": 0,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Atokali H Chishi",
+            "url": "https://www.facebook.com/100009704858146"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "huskymuscles.6837133737503821061",
-          "platform": "tt",
-          "published": "2020-06-11T16:50:51+00:00",
-          "video_id": "tt.huskymuscles.6837133737503821061",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:25+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100010938794214.1110417879332828",
+          "platform": "fb",
+          "video_id": "fb.100010938794214.1110417879332828",
+          "title": "Vipul",
+          "title_url": "https://www.facebook.com/100010938794214/videos/1110417879332828",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100010938794214.1110417879332828?Expires=2225428259&Signature=DAT5mZ6aA7k6f5ZoAg6CybvMobjrNsdTyOdx051M3q7fGE1Kp7aAFdyvixS8umEGBO5iphlg3Ijh-8NTDfX39Qu0pRQuxwPQanrMpUs~MzLaig~fO8SvhFjkMsJLeGdXfOb62W2fypfJFghfcMsfl0k4b~ZVIpz7ccsFj9oQAcRa3~NGNvi85Oxr5xMNBuxFWPT8RgQRHwKAWVATt7E3iQ8b39LbTlXKqE~0MyJe3-oh1pELw5yxlwEkDPadLq0xwcpcQMIHPeIC53vHpJP6SfDmzMNykIt4hgOwCyW2GGRsT5tBwR8s8C5d-Su2ZJpxZzSFD345S-s6V8APRgDukQ__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100010938794214/videos/1110417879332828",
+          "duration": 76,
+          "published": "2020-07-03T11:08:49+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t42.9040-2/106489059_641998166401740_2619866459802105386_n.mp4?_nc_cat=101&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=hqPy3v-zpMQAX_S6hCQ&_nc_ht=video-iad3-1.xx&oh=f3bc30ca9c4aae689a33777e50965e86&oe=5EFF3EC1",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100010938794214%2Fvideos%2F1110417879332828",
+          "engagement": {
+            "views": 40,
+            "likes": 11,
+            "shares": 1
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Vipul Singh",
+            "url": "https://www.facebook.com/100010938794214"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "artsaogiv.6847820818068622597",
-          "platform": "tt",
-          "published": "2020-07-10T12:02:14+00:00",
-          "video_id": "tt.artsaogiv.6847820818068622597",
-          "operations_data": {
-            "detection_date": "2020-07-12T09:59:47+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "1582017185167737.260807718575930",
+          "platform": "fb",
+          "video_id": "fb.1582017185167737.260807718575930",
+          "title": "Happy Birthday Avi! 4 Years Old Today!",
+          "title_url": "https://www.facebook.com/1582017185167737/videos/260807718575930",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.1582017185167737.260807718575930?Expires=2225428259&Signature=lQ~mZkM279HGUqBNn3U570mkEO~gaIRkV~UBLERlEZhj1se0DslkWwno4N4qS6lhrzt8nfKY0khgntvzrsJSjsXOp3vLQTsYcwO648gBJqW7l0ZDIhWZ2AdkfnAVEBl0Ia~iPIszvHAiF-~F6WroXJwWRHZQEjHvGFp~3nDZmIC2Ritn6SG923X5e1QylWFSZWFEK4L4MbfUKZz-Gd8BWB1eOQNDqIaNphPbiVoHXOmz1x9T0alsrALC0B4AXG5dpsK9Iv6Vp3vVrJEGe9aC0C6yUF~kS3cV7H1-WenvO7sEOnz6OfTA100WFpG1aq~Z5s5J3DWrirM4QXvZCDPB6g__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/1582017185167737/videos/260807718575930",
+          "duration": 341,
+          "published": "2020-06-23T15:16:32+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_567462347278143_2074204076438780350_n.mp4?_nc_cat=109&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=cJrwWH4y3IUAX8XNKNw&_nc_ht=video-iad3-1.xx&oh=4b1122296e6cb3d28c3f1f767c845513&oe=5F23A344",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F133894830018144%2Fvideos%2F260807718575930",
+          "engagement": {
+            "views": 42,
+            "likes": 0,
+            "shares": 1
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 91,
+            "name": "Chris Boyd Photos",
+            "url": "https://www.facebook.com/1582017185167737"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "huskymuscles.6828682260259015941",
-          "platform": "tt",
-          "published": "2020-05-19T22:14:48+00:00",
-          "video_id": "tt.huskymuscles.6828682260259015941",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:25+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100013748524521.911137242687885",
+          "platform": "fb",
+          "video_id": "fb.100013748524521.911137242687885",
+          "title": "Debalina",
+          "title_url": "https://www.facebook.com/100013748524521/videos/911137242687885",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100013748524521.911137242687885?Expires=2225428259&Signature=LnqpTEh3i~nnqzCC5HYH8uEDjydOO6kHZeFme8IcU457BM5ubzZj98-aK5yWfokicMk5TPROfbJzJDNtZLe~GUKX2sI03s4fzGrrYGB7MLx7XuOzZAJJi-ww08KTSoryyzjqavx4ILWzWbUTZWaGSBC0~WXMrLg80cTbHpf5~NO~X7ihqSmauI5alVqfmQ2ilo6YSonLGIBkUYetIX28Efr5ew3pYqrHOYIuUdw4BgzcSRiVGsuqMbo7F1NgbGcnWDBokrGletgdQAIWIV7ma~grl4-kSKPyp0W1EJNAwSHW7XmYIlv0vMiGGdbstZIZJ~QkgmCp6WEQnNBNgO7s8g__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100013748524521/videos/911137242687885",
+          "duration": 15,
+          "published": "2020-07-03T08:59:10+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/106717399_3281991638531056_5949927834750839596_n.mp4?_nc_cat=108&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=cO6bF5VA-7UAX-EgSeC&_nc_ht=video-iad3-1.xx&oh=7645882d79e44f745638569bc3f4b149&oe=5F26A0BF",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100013748524521%2Fvideos%2F911137242687885",
+          "engagement": {
+            "views": 112,
+            "likes": 13,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Debalina Dhar",
+            "url": "https://www.facebook.com/100013748524521"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "pepiteduweb.6839253292921425157",
-          "platform": "tt",
-          "published": "2020-06-17T09:55:50+00:00",
-          "video_id": "tt.pepiteduweb.6839253292921425157",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:26+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "100007480088735.2627923310800313",
+          "platform": "fb",
+          "video_id": "fb.100007480088735.2627923310800313",
+          "title": "Avi",
+          "title_url": "https://www.facebook.com/100007480088735/videos/2627923310800313",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.100007480088735.2627923310800313?Expires=2225428259&Signature=aaTj8nsS0~TyYCFo0kPNoK10m6O1M6~thbP3cWNCag~0RwHXVsfmQ~8vQID-ur7oG5Cos8ks4EhY-4tmTex9HGLasVgdtK6OXfmN~oN8gLbQzNOkfW6dCkqXOKWtGjT~npfQF4TfxoyWJ75hyjXxzgEbTwPF8gBROj7Ys~grkN0hpNbSiYzKxaiMavwFdtnUqKixZ8kA3tfQdk2krKcRfeoZsNgW6LYmaN~YGDBXoYMEvOC83Cnq5rxQiJU89fDIMV0k9YoxepqY5-52aJZHBsav8z8-qQJHo3XtZ2~kN9bzzFhncTV0e3XXVGHxSnY8NB7QWBShB~WMQ3kyoGD5kg__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/100007480088735/videos/2627923310800313",
+          "duration": 100,
+          "published": "2020-07-02T15:07:21+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_112243947064501_3311187149136537146_n.mp4?_nc_cat=101&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=A-zeuxiTB9QAX_ulTQ9&_nc_ht=video-iad3-1.xx&oh=7a2a47b8688ab6017b83444dc115cde3&oe=5F23DE6D",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100007480088735%2Fvideos%2F2627923310800313",
+          "engagement": {
+            "views": 212,
+            "likes": 105,
+            "shares": 2
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "Avi Naman",
+            "url": "https://www.facebook.com/100007480088735"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "anna_strigl.6847881576731217157",
-          "platform": "tt",
-          "published": "2020-07-10T15:57:57+00:00",
-          "video_id": "tt.anna_strigl.6847881576731217157",
-          "operations_data": {
-            "detection_date": "2020-07-12T09:59:47+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "133894830018144.963758460738947",
+          "platform": "fb",
+          "video_id": "fb.133894830018144.963758460738947",
+          "title": "",
+          "title_url": "https://www.facebook.com/133894830018144/videos/963758460738947",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.133894830018144.963758460738947?Expires=2225428259&Signature=Dnu~dEX9MyXK63fsmjFV-GQRlkMrHAD25L8TiJ8xxyalm~e5LvZGjhehhVOEOvKCLpdVYooTlgU4haRxoRTFhlDMhM0Or1qVYvLPHv1zQ00E4HZeJbDraQWVXrZwCVCTbJXGA-ol0msGO~4VEpV~SoJROASd4NHRFttDNTxX3AqznjgA9wGV7bhN-T8C5uWW-X~6T4zk1MWLLAuvKzdPBiDiXTgxTQOCUBdvmVprJelH7tkRoXT2ymUuN3i6ZUlJ4qyOfSiXTCctG5RsuqTLwcvp2MBLrI0gwQRPdXJQVU4Id344aiGr8MJ~iqOMe7ftXwXq9OdK-TmYSuifnF5NcA__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/133894830018144/videos/963758460738947",
+          "duration": null,
+          "published": null,
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": null,
+          "embed_code": null,
+          "engagement": {
+            "views": null,
+            "likes": null,
+            "shares": null
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": null,
+            "url": null
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "lauravhuber.6834250830472809733",
-          "platform": "tt",
-          "published": "2020-06-03T22:23:41+00:00",
-          "video_id": "tt.lauravhuber.6834250830472809733",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:26+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "910140029150941.317253112636445",
+          "platform": "fb",
+          "video_id": "fb.910140029150941.317253112636445",
+          "title": "Facebook video #317253112636445",
+          "title_url": "https://www.facebook.com/910140029150941/videos/317253112636445",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.910140029150941.317253112636445?Expires=2225428259&Signature=SpwuviCCqmxq7q35RKTiVX7TSpS7kfDvh~qwQjEJl7IaG~Qn6xq4-GXTNBy~k1Of0QMH7h5K9~qSWnzzmJmPRJveoa7RxKQsTFvJIcvp6iZFmfRlFyxQhlG2JKkctuz6Ug0IFzPROVVVYlOFeiIhRq7YguqB7Wsj5PuxW27DBugsZ4u~LIo0ACTbx3FHRjSDK8iShwZ4BrCmaxcdZGHfvg-yJBr6SR9P3dIKjbAy7SvQb19RJITUv4M9lOopdLXwFhs-s2V8dlm1bs5muQMQ1OzHJTD-qD~XQyAziB5AzKMEhZ1os6ZveNRo1qxTSTJaiyhKund5u24k-2nXnrcHhA__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/910140029150941/videos/317253112636445",
+          "duration": 10,
+          "published": "2020-07-03T11:26:11+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.25447-2/106828927_279061726634906_8025270451332632328_n.mp4?_nc_cat=104&vs=40545f9990ffbad5&_nc_vs=HBksFQAYJEdIOFVYZ2FhSXhZZnp2MEFBQWpQSHE3MGZGOXZibWRqQUFBRhUAAsgBABUAGCRHQXowVkFZRFZUYlg1N3NKQU9rLWlhYjl6YVlBYnY0R0FBQUYVAgLIAQBLAYgScHJvZ3Jlc3NpdmVfcmVjaXBlATEVACUAHAAAGAEwFry25OfHopABFQIoAkMzGAt2dHNfcHJldmlldxwXQCRaHKwIMScYGGRhc2hfdjRfaHE1X2ZyYWdfMl92aWRlbxIAGBh2aWRlb3MudnRzLmNhbGxiYWNrLnByb2QZHBUAFYT5AgAoElZJREVPX1ZJRVdfUkVRVUVTVBsHiBVvZW1fdGFyZ2V0X2VuY29kZV90YWcGb2VwX2hkE29lbV9yZXF1ZXN0X3RpbWVfbXMNMTU5Mzc3NTk4NTkwNwxvZW1fY2ZnX3J1bGUHdW5tdXRlZBNvZW1fcm9pX3JlYWNoX2NvdW50BjQzLDU2OAxvZW1fdmlkZW9faWQPMzE3MjUzMTEyNjM2NDQ1Em9lbV92aWRlb19hc3NldF9pZA8zMTcyNTMxMDU5Njk3NzkVb2VtX3ZpZGVvX3Jlc291cmNlX2lkDzMxNzI1MzEwMjYzNjQ0NiUCAA%3D%3D&_nc_sid=a6057a&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=ny0e6UAEyj4AX9G8Mq0&_nc_ht=video-iad3-1.xx&oh=7e49ac9c09c36bde4418a520f905cc4c&oe=5F264584&_nc_rid=efbff5502f80446",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F133894830018144%2Fvideos%2F317253112636445",
+          "engagement": {
+            "views": 0,
+            "likes": 0,
+            "shares": 0
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 43311,
+            "name": "AVI Sri Lanka",
+            "url": "https://www.facebook.com/910140029150941"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "fonziegomez.6841029535866064133",
-          "platform": "tt",
-          "published": "2020-06-22T04:48:36+00:00",
-          "video_id": "tt.fonziegomez.6841029535866064133",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:26+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "112059433466602.3414327635263708",
+          "platform": "fb",
+          "video_id": "fb.112059433466602.3414327635263708",
+          "title": "Avi T.",
+          "title_url": "https://www.facebook.com/112059433466602/videos/3414327635263708",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.112059433466602.3414327635263708?Expires=2225428259&Signature=n0n0ZUmQiK77FZLwss~~ns7urkFzV6ifmomjNeKoSLCH6GRZJO01bphX686oyN7LbiYPUKLq0pL3BMnN66drwCbnm9Atx-Zx7IVfH8jw5btNM~BqL~p8u-sPqO2xC0ugas6mvDXOT9fCbq09GSB1H7EWsAKzomxYYddWx5hlRzrbh-K3cZzBgvlTIm-IPp7kVABV36mIfvcErPzddoLFxuLlH3QUHs4Bn2oi7pFEsq9hwcy5i-advF4JuGMaZqQLNai2LhdlubKXkRRgAEDL9H2OVfBFzeb9mI9nJQZBu5mjJO9dicBBGA6n0cKnE5c9ugD9060yQESTIuvJFitqVg__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/112059433466602/videos/3414327635263708",
+          "duration": 60,
+          "published": "2020-06-09T17:01:05+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_245188146783689_576046521244542353_n.mp4?_nc_cat=101&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=g5lU85qiUOsAX9UotP8&_nc_ht=video-iad3-1.xx&oh=b379a3d26b6badad3cd3ff7be2c0f38d&oe=5F24A02F",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F133894830018144%2Fvideos%2F3414327635263708",
+          "engagement": {
+            "views": 92,
+            "likes": 2,
+            "shares": 1
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": 534,
+            "name": "Linked Films &Photos",
+            "url": "https://www.facebook.com/112059433466602"
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "haxens.6832607719837519109",
-          "platform": "tt",
-          "published": "2020-05-30T12:07:34+00:00",
-          "video_id": "tt.haxens.6832607719837519109",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:26+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "111784837190796.693691901479235",
+          "platform": "fb",
+          "video_id": "fb.111784837190796.693691901479235",
+          "title": "",
+          "title_url": "https://www.facebook.com/111784837190796/videos/693691901479235",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.111784837190796.693691901479235?Expires=2225428259&Signature=CeS4F0F1SNCZGrf62fDQgB-WUrfiH11vmKFfre7m3~evoi-w2qcOvp~PGKp8ZLOjg5AdCDNyT8fLzKLFUjSBNdRqgUcia6CzOPhRmOFmnGyQ~d4COY-CIFay94LpTCqKZqDYIRtyCpYHQAYIxyqi39~IvDMVj0W3WH6U~SVFSnpjNNwoZlHgJQXz753p-2WGVKtWQGt884rrOXkatvfVETkZcsFMd0XxEZONRTn8tiXgpWyPJKCfRyKj8gyODXjT6p5TRKMrSsgXDTSa~GnW~W2D-9GMuD6U-H2uG3JFThB2VQJtBNEkVGbIH2IBOeBnEW9uLV2gM27Mm2v738y~FA__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/111784837190796/videos/693691901479235",
+          "duration": null,
+          "published": null,
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": null,
+          "embed_code": null,
+          "engagement": {
+            "views": null,
+            "likes": null,
+            "shares": null
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": null,
+            "url": null
+          },
+          "video_url_protocol": null
         },
         {
-          "id": "ilar.yy.6844532309748731141",
-          "platform": "tt",
-          "published": "2020-07-01T15:21:05+00:00",
-          "video_id": "tt.ilar.yy.6844532309748731141",
-          "operations_data": {
-            "detection_date": "2020-07-09T11:16:26+00:00",
-            "crawler_type": "textual",
-            "text_queries": [
-              "#sport"
-            ]
+          "id": "435353750259337.897560994042966",
+          "platform": "fb",
+          "video_id": "fb.435353750259337.897560994042966",
+          "title": "Abu Faisal Reply to Sanghi Avi Dandiya | Fake Audio Master |",
+          "title_url": "https://www.facebook.com/435353750259337/videos/897560994042966",
+          "thumb_url": "https://dhinvet0joack.cloudfront.net/fb.435353750259337.897560994042966?Expires=2225428259&Signature=JdSUnI1yyFsgb0iLJmKnf78IqIZey-FTmmx5QnFI703Xt0ARPcZukbB~17APL7svMryHTH7sqBPTbiQywPQT5dvHEwtSJJ6gBNracSlHrpzjUJuFNUnyxcQngmMbrgG1U0fvsXgUp54Q4agFbRti6x3D7ZZDS9Efxy3CQc862qCYA5afzoNBJ0-2UedavBtYjiFFr6XPHbTKIhoqhoZcNzFBeIRlkIHfXMhkyGtjK7ADqYr2wFBN1gEKGa9Zvtbnn1gAcgxvo9MLkIOs6L-l8UOS1Ojf5mIi6edn4qJtNncopPL8wc2TVTYHjOlatl4I~wk~g8Jo0Oi74QG4M5MtsQ__&Key-Pair-Id=APKAIT3WAIFS3YNXL3IQ",
+          "url": "https://www.facebook.com/435353750259337/videos/897560994042966",
+          "duration": 156,
+          "published": "2020-05-20T08:59:53+00:00",
+          "video_status": null,
+          "live_status": "not_live",
+          "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t39.24130-2/10000000_109701823946314_7864536981657813301_n.mp4?_nc_cat=101&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=yih4lXTd1OIAX8heOm0&_nc_ht=video-iad3-1.xx&oh=dc59626d4ed2fb75fb1a24080bf3e3ce&oe=5F232D5F",
+          "embed_code": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F435353750259337%2Fvideos%2F897560994042966",
+          "engagement": {
+            "views": 723,
+            "likes": 17,
+            "shares": 13
           },
-          "connected_assets": [
-            
-          ]
+          "channel": {
+            "verified": false,
+            "subscribers": null,
+            "name": "92 Media Mission Humanity",
+            "url": "https://www.facebook.com/435353750259337"
+          },
+          "video_url_protocol": null
         }
       ]
     }

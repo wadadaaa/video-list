@@ -1,11 +1,16 @@
-  <div class="container" *ngFor="let video of videos.videos_log_by_ids">
+  <div class="container" *ngFor="let video of videos.items">
     <div class="plan">
-      <h2><span>{{ video.operations_data.text_queries }}</span> {{ video.video_id }}</h2>
-      <div class="video">
-        <iframe src="https://www.youtube.com/embed/W7qWa52k-nE"
-        width="250" height="315" frameborder="0" allowfullscreen></iframe>
-      </div>
+      <h2><span>{{ video.title }}</span>
+        </h2>
+          <div class="video">
+          <!-- <iframe [src]="video.embed_code"
+           width="250" height="315" frameborder="0" allowfullscreen></iframe> -->
+
+           <iframe src="https://www.youtube.com/embed/NZ2_mOTc4TM"
+           width="250" height="315" frameborder="0" allowfullscreen></iframe>
+        </div> 
       <p>
-        <span>Date: </span>{{ video.operations_data.detection_date | date }}
+        <span>Published: </span>{{ video.published | date }} <br>
+        <span>Duration: </span>{{ video.duration }}
       </p>
-  </div>
+  </div> 

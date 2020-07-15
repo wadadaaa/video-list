@@ -20,7 +20,7 @@ export class VideoComponent implements OnInit {
   constructor(private videosService: VideosService) { }
 
   ngOnInit(): void {
-    this.videos = this.videosService.all()
+    this.videos = this.videosService.getAllVideoData()
     .subscribe(videos => this.videos = videos)
   }
 
